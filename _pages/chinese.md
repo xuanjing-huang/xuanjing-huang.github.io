@@ -1,7 +1,7 @@
 ---
 permalink: /chinese/
 title: "个人简介"
-excerpt: "About me"
+excerpt: "中文简介"
 author_profile: true
 redirect_from: 
   - /md/

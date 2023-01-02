@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications
-
   - title: "个人简介"
     url: /chinese
     
+  - title: "Publications"
+    url: /publications
+
   - title: "Talks"
     url: /talks/    
 

@@ -68,23 +68,3 @@ redirect_from:
 * Information Processing and Management
 * ACM Transactions on Intelligent Systems and Technology
 
-### Recent Invited Talks
-* _Incorporating Dynamic Structures into Pre-trained Language Models_, Workshop on Dynamic Neural Networks, ICML 2022
-* _Text Sentiment Computing_, World Artificial Intelligence Conference, Jul. 2021, Shanghai
-* _Interpretability Analysis in NLP_, 2020 Annual Conference on CCF Task Force on Speech Dialogue and Auditory Processing, Oct. 2020, Beijing
-* _Representation learning in natural language processing_, Women in AI, 2020 BAAI Conference, June 2020, Beijing
-* _Deep Representation Learning in Natural Language Processing_, IALP 2019, Nov. 2019, Shanghai
-* _Text Generation based on Deep Learning_, 2018 Symposium on Knowledge Engineering and QA Technology, Jul. 2018, Nanjing
-* _Representation Learning in Natural Language Understanding_, AI Shanghai, May 2018, Shanghai
-* _New Method on Word Segmentation and POS Tagging_, Strategic Symposium on Natural Language Processing, Apr. 2018, Dali
-* _Deep Representation Learning in Natural Language Processing and its Applications_, 2017 Symposium on Knowledge Engineering and QA Technology, Dec. 2017, Nanjing
-
-### Research Grants
-* Principal Investigator: _Research on the New Paradigm of Pluggable and Robust Pre-training Model for Smart Healthcare_, Sponsored by Program of Shanghai Academic Research Leader, 2022-2025
-* Principal Investigator:	_Structural and Semantics Analysis for Internet Language Based on Deep Neural Networks_, Sponsored by National Natural Science Foundation of China, 2020-2023
-* Principal Investigator:	_Research of intelligent decision making technology of big data assistance program for released prisoners based on resettlement, assistance and education status_, Sponsored by National Key Research and Development Program of China, 2018-2021
-* Participant:	_Big Data driven Natural Language Understanding, QA and Translation_, Sponsored by National Key Research and Development Program of ChinaNational, 2017-2021
-* Participant:	_Deep Chinese Semantic Computing and Reading Comprehension_, Sponsored by Natural Science Foundation of China, 2018-2020
-* Participant:	_Search Intent Understand, Representation and Matching_, Sponsored by Natural Science Foundation of China, 2016-2020
-* Principal Investigator:	_Integrating Text Content and Structure in Topic Analysis_, Sponsored by National Natural Science Foundation of China, 2015-2018
-* Participant: _Key Technology and System to Solve Elementary Mathematics Problems_, Sponsored by 863 High-tech Project of China, 2015-2017

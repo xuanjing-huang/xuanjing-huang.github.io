@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xuanjing Huang (黄萱菁)"
   avatar           : "800.jpg"
-  bio              : "Natural Language Processing, Information Retrievel"
+  bio              : "Professor at Fudan University"
   location         : "Shanghai, China"
-  employer         : "Fudan University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RGsMgZA4H78C"
   email            : "xjhuang@fudan.edu.cn"

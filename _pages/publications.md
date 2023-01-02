@@ -4,13 +4,7 @@ title: "Selected Papers"
 permalink: /publications/
 author_profile: true
 ---
-
-* Xipeng Qiu, TianXiang Sun, Yige Xu, Yunfan Shao, Ning Dai, Xuanjing Huang, _Pre-trained Models for Natural Language Processing: A Survey_, SCIENCE CHINA Technological Sciences (SCTS) , 2020, Vol. 63(10), pp. 1872–1897 [[BibTex]](https://dblp.uni-trier.de/rec/journals/corr/abs-2003-08271.html?view=bibtex)[[PDF]](https://arxiv.org/pdf/2003.08271.pdf)
-* Tao Gui, Yicheng Zou, Qi Zhang, Minlong Peng, Jinlan Fu, Zhongyu Wei, Xuanjing Huang: _A Lexicon-Based Graph Neural Network for Chinese NER_. EMNLP/IJCNLP (1) 2019: 1040-1050 [[BibTex]](https://aclanthology.org/D19-1096.bib)[[PDF]](https://aclanthology.org/D19-1096.pdf)
-* Pengfei Liu, Xipeng Qiu, Xuanjing Huang: _Adversarial Multi-task Learning for Text Classification_. ACL (1) 2017: 1-10 [[BibTex]](hhttps://aclanthology.org/P17-1001.bib)[[PDF]](https://aclanthology.org/P17-1001.pdf)
-* Pengfei Liu, Xipeng Qiu, Xuanjing Huang: _Recurrent Neural Network for Text Classification with Multi-Task Learning_. IJCAI 2016: 2873-2879 [[BibTex]](https://dblp.uni-trier.de/rec/conf/ijcai/LiuQH16.html?view=bibtex)[[PDF]](https://arxiv.org/pdf/1605.05101.pdf)
-
-You can also find her publications on her [Google Scholar profile](https://scholar.google.com/citations?user=RGsMgZA4H78C), [Semantic Scholar profile](https://www.semanticscholar.org/author/1790227), [Computer Science Bibliography](https://dblp.org/pid/05/6735), or [ACL Anthology](https://aclweb.org/anthology/people/x/xuan-jing-huang/).
+You can find her publications on her [Google Scholar profile](https://scholar.google.com/citations?user=RGsMgZA4H78C), [Semantic Scholar profile](https://www.semanticscholar.org/author/1790227), [Computer Science Bibliography](https://dblp.org/pid/05/6735), or [ACL Anthology](https://aclweb.org/anthology/people/x/xuan-jing-huang/).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

@@ -3,9 +3,11 @@ title: "信息提取的鲁棒性问题"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/robustness
-venue: "智源大会自然语言处理论坛"
+venue: "北京智源大会自然语言处理论坛"
 date: 2022-06-02
 location: "北京, 中国"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+信息提取主要包括命名实体识别及关系提取两大主要任务，旨在自动地从海量非结构化文本中抽取出关键信息，从而有效地支撑知识图谱构建和智能问答等下游任务。在深度学习时代，由于神经网络，特别是预训练模型已经能自动地提取高层语义特征，人们把更多的精力关注在如何构建预训练任务实现更完备的语义知识嵌入，以及如何高效使用这样的模型。然而，深度学习模型自动提取特征难以避免捷径学习问题，导致现实应用场景下的鲁棒性缺陷，对信息提取的下游应用带来了一些隐藏的危险，在低资源环境下尤为严重。本报告将围绕信息提取的鲁棒性问题展开深入分析，探究影响模型鲁棒性的深层原因，并介绍我们在弱样本、小样本、无标注、跨领域等场景上提升信息提取模型鲁棒性的研究成果。
+
+[More information here](https://2022.baai.ac.cn/schedule)

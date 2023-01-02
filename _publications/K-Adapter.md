@@ -1,4 +1,3 @@
-
 ---
 title: "K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters"
 collection: publications

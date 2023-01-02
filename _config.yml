@@ -11,7 +11,7 @@ title                    : "Dr. Xuanjing Huang"
 title_separator          : "-"
 name                     : &name "Xuanjing Huang"
 description              : &description "Professor at Fudan University"
-url                      : https://xuanjing-huang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xuanjing-huang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuanjing-huang/xuanjing-huang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xuanjing Huang (黄萱菁)"
   avatar           : "800.jpg"
-  bio              : "Professor at Fudan University, 复旦大学教授"
+  bio              : "Professor at Fudan University\n复旦大学教授"
   location         : "Shanghai, China"
   employer         : 
   pubmed           : 

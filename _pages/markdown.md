@@ -1,13 +1,11 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Professional Activities"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-## Professional Activities
-
 ### Committee Membership
 * [Technical Committee on Natural Language Processing of CCF](http://tcci.ccf.org.cn/)
 * [Technical Committee on Computational Linguistic of CIPSC](http://cips-cl.org/)

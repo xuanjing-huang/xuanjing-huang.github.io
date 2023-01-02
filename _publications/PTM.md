@@ -10,4 +10,4 @@ citation: 'Xipeng Qiu, TianXiang Sun, Yige Xu, Yunfan Shao, Ning Dai, Xuanjing H
 ---
 Recently, the emergence of pre-trained models (PTMs) has brought natural language processing (NLP) to a new era. In this survey, we provide a comprehensive review of PTMs for NLP. We first briefly introduce language representation learning and its research progress. Then we systematically categorize existing PTMs based on a taxonomy from four different perspectives. Next, we describe how to adapt the knowledge of PTMs to downstream tasks. Finally, we outline some potential directions of PTMs for future research. This survey is purposed to be a hands-on guide for understanding, using, and developing PTMs for various NLP tasks.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://xuanjing-huang.github.io/files/PTM.pdf)

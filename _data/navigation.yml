@@ -6,15 +6,18 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Awards"
+    url: /awards/    
     
   - title: "Grants"
     url: /grants/     
 
   - title: "Services"
-    url: /services/     
-
+    url: /services/ 
+    
+  - title: "Teaching"
+    url: /teaching/    
+    
   - title: "CV"
     url: /cv/
  

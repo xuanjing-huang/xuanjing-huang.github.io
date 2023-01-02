@@ -19,9 +19,14 @@ Work experience
 * Since 2006: Professor
   * Fudan University
 
+* 2008-2009: Visiting Scholar
+  * UMass Amherst
+
 * 2001-2006: Associate Professor
   * Fudan University
   
+* 1998-2000: Lecturer
+  * Fudan University
 
 
 Publications

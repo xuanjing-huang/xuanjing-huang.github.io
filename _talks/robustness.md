@@ -1,7 +1,7 @@
 ---
 title: "信息提取的鲁棒性问题"
 collection: talks
-type: "Conference proceedings talk"
+type: "Invited talk"
 permalink: /talks/robustness
 venue: "北京智源大会自然语言处理论坛"
 date: 2022-06-02

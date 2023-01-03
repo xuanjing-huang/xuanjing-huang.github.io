@@ -3,7 +3,6 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 redirect_from: 
-  - /awards/
   - /awards.html
 ---
 * A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck, _COLING Outstanding Paper Award_, 2022 [[BibTex]](https://aclanthology.org/2022.coling-1.173.bib)[[PDF]](https://aclanthology.org/2022.coling-1.173.pdf)

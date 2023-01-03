@@ -12,15 +12,18 @@ main:
   - title: "Awards"
     url: /awards/    
     
-  - title: "Grants"
-    url: /grants/     
-
   - title: "Services"
     url: /services/ 
-    
+
+  - titletitle: "Grants"
+    url: /grants/     
+   
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Contact"
+    url: /contact/    
+
   - title: "CV"
     url: /cv/
  

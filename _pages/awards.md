@@ -7,7 +7,8 @@ redirect_from:
   - /awards.html
 ---
 * A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck, **COLING 2022 Outstanding Paper Award** [[BibTex]](https://aclanthology.org/2022.coling-1.173.bib)[[PDF]](https://aclanthology.org/2022.coling-1.173.pdf)
-* Excellent Supervisor for Graduate Students (研究生心目中的好导师), Fudan University, 2022
+* Excellent Supervisor for Graduate Students (**研究生心目中的好导师**), Fudan University, 2022
+* **复旦大学十佳教师**, 2021
 * Aminer "**Women in AI**", 2020-2022
 * Aminer "**Most Influential Scholar Award Honorable Mention**", 2020-2022
 * **上海市育才奖**, 2021

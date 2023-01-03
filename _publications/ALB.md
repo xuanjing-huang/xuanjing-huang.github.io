@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ALB
 excerpt: 'In this work, we introduce a lexicon-based graph neural network with global semantics for Chinese NER.'
 date: 2019-11-03
-venue: 'EMNLP/IJCNLP (1)'
+venue: 'Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)'
 paperurl: 'http://xuanjing-huang.github.io/files/ALB.pdf'
 citation: 'Tao Gui, Yicheng Zou, Qi Zhang, Minlong Peng, Jinlan Fu, Zhongyu Wei, Xuanjing Huang: A Lexicon-Based Graph Neural Network for Chinese NER. EMNLP/IJCNLP (1) 2019: 1040-1050'
 ---

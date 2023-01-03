@@ -3,8 +3,8 @@ title: "Recurrent Neural Network for Text Classification with Multi-Task Learnin
 collection: publications
 permalink: /publication/RNN
 excerpt: 'We propose three different mechanisms of sharing information to model text with task-specific and shared layers.'
-date: 2016-07-01
-venue: 'IJCAI'
+date: 2016-07-09
+venue: 'Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence'
 paperurl: 'http://xuanjing-huang.github.io/files/RNN.pdf'
 citation: 'Pengfei Liu, Xipeng Qiu, Xuanjing Huang: Recurrent Neural Network for Text Classification with Multi-Task Learning. IJCAI 2016: 2873-2879'
 ---

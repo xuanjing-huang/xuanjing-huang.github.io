@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/amt
 excerpt: 'The paper proposed an adversarial multi-task learning framework, alleviating the shared and private latent feature spaces from interfering with each other.'
 date: 2017-7-01
-venue: 'Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
+venue: 'Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics'
 paperurl: 'http://xuanjing-huang.github.io/files/AMT.pdf'
 citation: 'Pengfei Liu, Xipeng Qiu, Xuanjing Huang: Adversarial Multi-task Learning for Text Classification. ACL (1) 2017: 1-10'
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/cws
 excerpt: 'In this paper, we propose adversarial multi-criteria learning for CWS by integrating shared knowledge from multiple heterogeneous segmentation criteria.'
 date: 2017-07-30
-venue: 'ACL'
+venue: 'Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics'
 paperurl: 'http://xuanjing-huang.github.io/files/cws.pdf'
 citation: 'XXinchi Chen, Zhan Shi, Xipeng Qiu, Xuanjing Huang: Adversarial Multi-Criteria Learning for Chinese Word Segmentation. ACL (1) 2017: 1193-1203'
 ---

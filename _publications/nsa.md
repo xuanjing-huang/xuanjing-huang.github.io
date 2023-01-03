@@ -2,9 +2,9 @@
 title: "A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis"
 collection: publications
 permalink: /publication/nsa
-excerpt: 'we propose a novel lexicon-based supervised attention model (LBSA) for generating sentiment-informative representations.'
+excerpt: 'We propose a novel lexicon-based supervised attention model (LBSA) for generating sentiment-informative representations.'
 date: 2018-08-20
-venue: 'COLING'
+venue: 'Proceedings of the 27th International Conference on Computational Linguistics'
 paperurl: 'http://xuanjing-huang.github.io/files/nsa.pdf'
 citation: 'Yicheng Zou, Tao Gui, Qi Zhang, Xuanjing Huang: A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis. COLING 2018: 868-877'
 ---

@@ -5,13 +5,14 @@ author_profile: true
 redirect_from: 
   - /awards.html
 ---
-* A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck, _COLING Outstanding Paper Award_, 2022 [[BibTex]](https://aclanthology.org/2022.coling-1.173.bib)[[PDF]](https://aclanthology.org/2022.coling-1.173.pdf)
-* _Excellent Supervisor for Graduate Students_ (研究生心目中的好导师), Fudan University, 2022
+* [A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck](http://xuanjing-huang.github.io/mft), _COLING Outstanding Paper Award_, 2022
+* _Excellent Supervisor for Graduate Students_, Fudan University, (复旦大学研究生心目中的好导师), 2022
 * 复旦大学十佳教师, 2022
 * Aminer "_Women in AI_", 2020, 2022
 * Aminer "_Most Influential Scholar Award Honorable Mention_", 2020-2022
 * 上海市育才奖, 2021
+* [Pre-trained Models for Natural Language Processing: A Survey](http://xuanjing-huang.github.io/ptm),《中国科学：技术科学》2021年度高影响力论文奖, 2021
 * Forbes China "_Women in Tech_", 2020
-* [How to Fine-Tune BERT for Text Classification?](http://xuanjing-huang.github.io/files/bert-ft), _CCL Best Paper Award_, 2019
-* A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis, _COLING Area Chair Favorites Award_, 2018 [[BibTex]](https://aclanthology.org/C18-1074.bib)[[PDF]](https://aclanthology.org/C18-1074.pdf)
-* Adversarial Multi-Criteria Learning for Chinese Word Segmentation, _ACL Outstanding Paper Award_, 2017 [[BibTex]](https://aclanthology.org/P17-1110.bib)[[PDF]](https://aclanthology.org/P17-1110.pdf)
+* [How to Fine-Tune BERT for Text Classification?](http://xuanjing-huang.github.io/bert-ft), _CCL Best Paper Award_, 2019
+* [A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis](http://xuanjing-huang.github.io/nsa), _COLING Area Chair Favorites Award_, 2018
+* [Adversarial Multi-Criteria Learning for Chinese Word Segmentation](http://xuanjing-huang.github.io/cws), _ACL Outstanding Paper Award_, 2017

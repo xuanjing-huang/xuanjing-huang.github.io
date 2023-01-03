@@ -14,5 +14,5 @@ redirect_from:
 * 上海市育才奖, 2021
 * Forbes China "_Women in Tech_", 2020
 * How to Fine-Tune BERT for Text Classification?, _CCL Best Paper Award_, 2019 [[BibTex]](https://dblp.uni-trier.de/rec/journals/corr/abs-1905-05583.html?view=bibtex)[[PDF]](https://arxiv.org/pdf/1905.05583.pdf)
-* A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis, _COLING Area Chair Favorites_, 2018 [[BibTex]](https://aclanthology.org/C18-1074.bib)[[PDF]](https://aclanthology.org/C18-1074.pdf)
+* A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis, _COLING Area Chair Favorites Award_, 2018 [[BibTex]](https://aclanthology.org/C18-1074.bib)[[PDF]](https://aclanthology.org/C18-1074.pdf)
 * Adversarial Multi-Criteria Learning for Chinese Word Segmentation, _ACL Outstanding Paper Award_, 2017 [[BibTex]](https://aclanthology.org/P17-1110.bib)[[PDF]](https://aclanthology.org/P17-1110.pdf)

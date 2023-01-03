@@ -3,7 +3,7 @@ permalink: /grants/
 title: "Research Grants"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /grants/
   - /grants.html
 ---
 * Principal Investigator: _Research on the New Paradigm of Pluggable and Robust Pre-training Model for Smart Healthcare_, Sponsored by Program of Shanghai Academic Research Leader, 2022-2025

@@ -9,4 +9,4 @@ redirect_from:
 * Email: xjhuang@fudan.edu.cn
 * School of Computer Science, Interdisciplinary Building No.2
 * Fudan University (Jiangwan Campus)
-* Songhu Road 2005, Shanghai 200438, China
+* 2005 Songhu Road, Shanghai 200438, China

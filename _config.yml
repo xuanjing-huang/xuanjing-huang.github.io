@@ -89,7 +89,7 @@ author:
   email            : "xjhuang@fudan.edu.cn"
   googlescholar    : "https://scholar.google.com/citations?user=RGsMgZA4H78C"
   semanticscholar    : "https://www.semanticscholar.org/author/Xuanjing-Huang/1790227"
-  researchgate     : "https://www.researchgate.net/profile/Xuanjing-Huang"
+  researchgate     : # "https://www.researchgate.net/profile/Xuanjing-Huang"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9197-9426"
+  orcid            : # "https://orcid.org/0000-0001-9197-9426"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

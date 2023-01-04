@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="{{ author.employer }}"><i class="fab fa-fw fa-university" aria-hidden="true"></i> Fudan University</a></li>
+        <li><a href="{{ author.employer }}"><i class="fas fa-fw fa-university" aria-hidden="true"></i> Fudan University</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -108,6 +108,12 @@
       {% endif %}
       {% if author.semanticscholar %}
         <li><a href="{{ author.semanticscholar }}"><i class="fas fa-fw fa-book"></i> Semantic Scholar</a></li>
+      {% endif %}
+      {% if author.dblp %}
+        <li><a href="{{ author.dblp }}"><i class="fas fa-fw fa-database"></i> Computer Science Bibliography</a></li>
+      {% endif %}
+      {% if author.aclanthology %}
+        <li><a href="{{ author.aclanthology }}"><i class="fas fa-fw fa-folder"></i> ACL Anthology</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>

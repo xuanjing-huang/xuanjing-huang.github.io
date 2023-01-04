@@ -84,11 +84,13 @@ author:
   avatar           : "800.jpg"
   bio              : "Professor at Fudan University, 复旦大学教授"
   location         : "Shanghai, China"
-  employer         : "Fudan University"
+  employer         : "http://www.fudan.edu.cn/en/"
   pubmed           : 
   email            : "xjhuang@fudan.edu.cn"
   googlescholar    : "https://scholar.google.com/citations?user=RGsMgZA4H78C"
   semanticscholar    : "https://www.semanticscholar.org/author/Xuanjing-Huang/1790227"
+  dblp    : "https://https://dblp.org/pid/05/6735"
+  aclanthology    : "https://aclweb.org/anthology/people/x/xuan-jing-huang/"
   researchgate     : # "https://www.researchgate.net/profile/Xuanjing-Huang"
   uri              :
   bitbucket        :

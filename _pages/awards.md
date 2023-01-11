@@ -15,5 +15,6 @@ redirect_from:
 * [Pre-trained Models for Natural Language Processing: A Survey](http://xuanjing-huang.github.io/publication/PTM),《中国科学：技术科学》2021年度高影响力论文奖, 2021
 * Forbes China "_Women in Tech_", 2020
 * [How to Fine-Tune BERT for Text Classification?](http://xuanjing-huang.github.io/publication/bert-ft), _CCL Best Paper Award_, 2019
+* Model the Long-Term Post History for Hashtag Recommendation?, _NLPCC Outstanding Paper Award_, 2019
 * [A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis](http://xuanjing-huang.github.io/publication/nsa), _COLING Area Chair Favorites Award_, 2018
 * [Adversarial Multi-Criteria Learning for Chinese Word Segmentation](http://xuanjing-huang.github.io/publication/cws), _ACL Outstanding Paper Award_, 2017

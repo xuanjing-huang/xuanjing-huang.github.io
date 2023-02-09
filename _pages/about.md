@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Biography"
 excerpt: "Xuanjing Huang"
 author_profile: true
 redirect_from: 

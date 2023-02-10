@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuanjing Huang"
+title                    : "Prof. Xuanjing Huang"
 title_separator          : "-"
 name                     : &name "Xuanjing Huang"
 description              : &description "Professor at Fudan University"

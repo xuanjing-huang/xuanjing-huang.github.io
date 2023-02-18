@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xuanjing Huang is a Professor at the School of Computer Science, [Fudan University](http://www.fudan.edu.cn/en/), Shanghai, China. She obtained her Ph.D. in Computer Science from Fudan University in 1998. From 2008 to 2009, she served as a visiting scholar at [CIIR, UMass Amherst](https://ciir.cs.umass.edu/).
+Xuanjing Huang is a Professor at the School of Computer Science, [Fudan University](http://www.fudan.edu.cn/en/), Shanghai, China. She obtained her Ph.D. degree in Computer Science from Fudan University in 1998. From 2008 to 2009, she served as a visiting scholar at [CIIR, UMass Amherst](https://ciir.cs.umass.edu/).
 
 Xuanjing Huang is the head of [Fudan NLP Lab](https://nlp.fudan.edu.cn/nlpen/main.htm), where she focuses on natural language processing and information retrieval. Her research interests include sentiment analysis, information extraction, pre-trained language models, and the robustness and interpretability of NLP. She has published over 150 papers in major NLP, AI, and IR conferences and journals, and her work has been recognized with numerous awards, including an outstanding paper award at ACL 2017, an area chair favorites award at COLING 2018, an outstanding paper award at NLPCC 2019, the best paper award at CCL 2019, and an outstanding paper award at COLING 2022.
 

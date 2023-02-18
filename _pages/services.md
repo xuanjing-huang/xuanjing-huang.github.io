@@ -16,7 +16,7 @@ redirect_from:
 * [Association for Computing Machinery](https://www.acm.org/)
 
 ### Conference Organizing Committee
-* SIGIR-AP 2023, Program Co-chair
+* [SIGIR-AP 2023](http://www.sigir-ap.org/sigir-ap-2023/), Program Co-chair
 * [EMNLP 2021](http://2021.emnlp.org), Program Co-chair
 * [NLPCC 2020](http://tcci.ccf.org.cn/conference/2020), General Co-chair
 * [CCL 2019](http://www.cips-cl.org/static/CCL2019/en/index.html), Program Co-Chair
@@ -31,15 +31,15 @@ redirect_from:
 * CIKM 2014, Competition Chair
 * SMP 2014, Program Co-Chair
 
-### Conference AC, SPC or PC
-* ACL Rolling Review (2022)
+### Conference SAC, AC, SPC or PC
+* ACL Rolling Review (2022-2023)
 * ACL (2013-2023)
 * EMNLP (2010, 2013-2022)
 * NAACL (2016-2021)
 * COLING (2010, 2014-2020)
 * AAAI (2019-2022)
 * IJCAI (2013, 2016-2021)
-* SIGIR (2011,2014-2018, 2020-2022)
+* SIGIR (2011,2014-2018, 2020-2023)
 * TheWebConf (2012-2013, 2015-2016, 2018, 2020-2023)
 * CIKM (2011-2013, 2017-2020)
 * WSDM (2012, 2015-2021, 2023)

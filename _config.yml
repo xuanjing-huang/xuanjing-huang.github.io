@@ -91,7 +91,7 @@ author:
   semanticscholar    : "https://www.semanticscholar.org/author/Xuanjing-Huang/1790227"
   dblp    : "https://dblp.dagstuhl.de/pid/05/6735-1.html"
   aclanthology    : "https://aclweb.org/anthology/people/x/xuan-jing-huang/"
-  researchgate     : # "https://www.researchgate.net/profile/Xuanjing-Huang"
+  researchgate     : "https://www.researchgate.net/profile/Xuanjing-Huang"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "https://orcid.org/0000-0001-9197-9426"
+  orcid            : "https://orcid.org/0000-0001-9197-9426"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -266,14 +266,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+# - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
 
 

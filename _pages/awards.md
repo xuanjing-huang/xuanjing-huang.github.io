@@ -5,8 +5,10 @@ author_profile: true
 redirect_from: 
   - /awards.html
 ---
+* [Rethinking Label Smoothing on Multi-Hop Question Answering](https://arxiv.org/abs/2212.09512), _CCL Best Paper Award_, 2023
 * 自然语言表示学习及其开源应用，钱伟长中文信息处理科学技术奖一等奖，2022
 * [A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck](http://xuanjing-huang.github.io/publication/mft), _COLING Outstanding Paper Award_, 2022
+* 复旦大学“廖凯原最受欢迎教师奖”, 2022
 * 复旦大学“研究生心目中的好导师”, 2022
 * 复旦大学“钟扬式”好老师（复旦大学十佳教师）, 2022
 * Aminer "_Women in AI_", 2020, 2022

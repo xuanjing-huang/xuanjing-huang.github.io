@@ -3,9 +3,10 @@ title: "大语言模型理论与实践"
 collection: publications
 permalink: /publication/intro-llm
 excerpt: '本书将介绍大语言模型的基础理论包括语言模型、分布式模型训练以及强化学习，并以Deepspeed-Chat框架为例介绍实现大语言模型和类ChatGPT系统的实践。'
-date: 2023-10-01
+date: 2023-12-01
+venue: '电子工业出版社'
 paperurl: 'https://intro-llm.github.io/'
-citation: '张奇、桂韬、郑锐、黄萱菁：大语言模型理论与实践，2023'
+citation: '张奇、桂韬、郑锐、黄萱菁：大语言模型理论与实践，电子工业出版社，2023'
 ---
 ![](/images/intro-llm.png)
 

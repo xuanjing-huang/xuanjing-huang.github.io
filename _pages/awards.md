@@ -5,9 +5,9 @@ author_profile: true
 redirect_from: 
   - /awards.html
 ---
-* [Delve into PPO: Implementation Matters for Stable RLHF](https://openreview.net/pdf?id=rxEmiOEIFL), Workshop on Instruction Tuning and Instruction Following @ NeurIPS 2023, Best Paper Award, 2023
 * [Delve into PPO: Implementation Matters for Stable RLHF](https://openreview.net/pdf?id=rxEmiOEIFL), Workshop on Instruction Tuning and Instruction Following @ NeurIPS 2023, _Best Paper Award_, 2023
 * [Rethinking Label Smoothing on Multi-Hop Question Answering](https://arxiv.org/abs/2212.09512), _CCL Best Paper Award_, 2023
+* World’s Top 2% Scientists, Elsevier, 2023
 * 自然语言表示学习及其开源应用，钱伟长中文信息处理科学技术奖一等奖，2022
 * [A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck](http://xuanjing-huang.github.io/publication/mft), _COLING Outstanding Paper Award_, 2022
 * 复旦大学“廖凯原最受欢迎教师奖”, 2022

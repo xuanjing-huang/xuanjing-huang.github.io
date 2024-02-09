@@ -1,5 +1,5 @@
 ---
-title: "Secrets of RLHF in Large Language Models Part I: PPO"
+title: "MouSi: Poly-Visual-Expert Vision-Language Models"
 collection: publications
 permalink: /publication/mousi
 excerpt: 'This paper proposes the use of ensemble experts technique to synergizes the capabilities of individual visual encoders, including those skilled in image-text matching, OCR, image segmentation, etc.'

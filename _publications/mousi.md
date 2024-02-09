@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/mousi
 excerpt: 'This paper proposes the use of ensemble experts technique to synergizes the capabilities of individual visual encoders, including those skilled in image-text matching, OCR, image segmentation, etc.'
 date: 2024-01-01
-venue: 'CoRR abs/2307.04964'
+venue: 'CoRR abs/2401.17221'
 paperurl: 'http://xuanjing-huang.github.io/files/mousi.pdf'
 citation: 'Xiaoran Fan, Tao Ji, Changhao Jiang, Shuo Li, Senjie Jin, Sirui Song, Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng, Ming Zhang, Caishuang Huang, Rui Zheng, Zhiheng Xi, Yuhao Zhou, Shihan Dou, Junjie Ye, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang: MouSi: Poly-Visual-Expert Vision-Language Models. CoRR abs/2401.17221 (2024)'
 ---

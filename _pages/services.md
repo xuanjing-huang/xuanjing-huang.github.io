@@ -12,7 +12,7 @@ redirect_from:
 * Technical Committee on Information Retrieval of CIPSC
 * Technical Committee on Natural Language Understanding of CAAI
 * [Association for Computational Linguistics](http://www.aclweb.org/)
-* [ Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)](http://aaclweb.org/officers/index.html)
+* [ Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)](https://aaclnet.org/about/index.html)
 * [Association for Computing Machinery](https://www.acm.org/)
 
 ### Conference Organizing Committee
@@ -32,26 +32,25 @@ redirect_from:
 * SMP 2014, Program Co-Chair
 
 ### Conference SAC, AC, SPC or PC
-* ACL Rolling Review (2022-2023)
-* ACL (2013-2023)
-* EMNLP (2010, 2013-2022)
-* NAACL (2016-2021)
-* COLING (2010, 2014-2020)
+* ACL Rolling Review (2022-2024)
+* ACL (2013-2024)
+* EMNLP (2010-2024)
+* NAACL (2016-2024)
+* COLING (2010-2025)
 * AAAI (2019-2022)
-* IJCAI (2013, 2016-2021)
-* SIGIR (2011,2014-2018, 2020-2023)
-* TheWebConf (2012-2013, 2015-2016, 2018, 2020-2023)
-* CIKM (2011-2013, 2017-2020)
-* WSDM (2012, 2015-2021, 2023)
-* ICTIR (2020-2022)
-* KDD (2015-2016, 2020-2021)
-* NeurIPS (2020, 2022)
-* ICML (2021-2023)
-* ICLR (2021, 2023)
+* IJCAI (2013-2025)
+* SIGIR (2011-2024)
+* TheWebConf (2012-2024)
+* CIKM (2011-2020)
+* WSDM (2012-2023)
+* NeurIPS (2020-2024)
+* ICML (2021-2024)
+* ICLR (2021-2025)
 
 ### Journal AE
 * [Artificial Intelligence](https://aij.ijcai.org/organization-and-governance/)
 * [Computational Linguistics](https://direct.mit.edu/coli/pages/editorial-info)
+* [Journal of AI Research](https://www.jair.org/index.php/jair)
 * [SCIENCE CHINA Information Sciences (中国科学: 信息科学)](http://scis.scichina.com/download/ssi-editorialboard.pdf)
 * [Journal of Software (软件学报)](http://www.jos.org.cn/jos/site/menu/20071206155306001?id=20071206155306001&name=%E7%BC%96%E5%A7%94%E4%BC%9A)
 * [Journal of Computer Research and Development (计算机研究与发展)](https://crad.ict.ac.cn/xianrenbianweihui)

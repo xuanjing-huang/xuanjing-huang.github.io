@@ -3,7 +3,7 @@ title: "The Rise and Potential of Large Language Model Based Agents: A Survey"
 collection: publications
 permalink: /publication/agent
 excerpt: 'In this paper, we perform a comprehensive survey on LLM-based agents.'
-date: 2025-02
+date: 2025-02-01
 venue: 'Science China Information Sciences'
 paperurl: 'https://link.springer.com/article/10.1007/s11432-024-4222-0'
 citation: 'Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming Zhang, Junzhe Wang, Senjie Jin, Enyu Zhou, Rui Zheng, Xiaoran Fan, Xiao Wang, Limao Xiong, Yuhao Zhou, Weiran Wang, Changhao Jiang, Yicheng Zou, Xiangyang Liu, Zhangyue Yin, Shihan Dou, Rongxiang Weng, Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang, Qi Zhang, Tao Gui:

@@ -2,6 +2,7 @@
 permalink: /awards/
 title: "Awards"
 author_profile: true
+lang: en
 redirect_from:
   - /awards.html
 ---

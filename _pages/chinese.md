@@ -3,7 +3,8 @@ permalink: /chinese/
 title: "黄萱菁"
 excerpt: "中文简介"
 author_profile: true
-redirect_from: 
+lang: zh
+redirect_from:
   - /chinese.html
 ---
 

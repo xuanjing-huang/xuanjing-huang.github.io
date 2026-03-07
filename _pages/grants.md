@@ -2,7 +2,8 @@
 permalink: /grants/
 title: "Research Grants"
 author_profile: true
-redirect_from: 
+lang: en
+redirect_from:
   - /grants.html
 ---
 * Principal Investigator:	_Studying Key Methods for Open Information Extraction Based on Pretrained Language Models_, Sponsored by National Natural Science Foundation of China, 2024-2027

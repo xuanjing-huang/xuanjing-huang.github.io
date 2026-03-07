@@ -2,7 +2,8 @@
 permalink: /services/
 title: "Professional Activities"
 author_profile: true
-redirect_from: 
+lang: en
+redirect_from:
   - /services.html
 ---
 ### Committee Membership

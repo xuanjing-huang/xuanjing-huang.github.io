@@ -1,26 +1,60 @@
-# main links links
-main:
-  - title: "个人简介"
-    url: /chinese/
+# main links for English site
+main_en:
+  - title: "About"
+    url: /
     
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Awards"
-    url: /awards/    
+    url: /awards/
     
   - title: "Services"
-    url: /services/ 
+    url: /services/
 
   - title: "Grants"
-    url: /grants/     
+    url: /grants/
    
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Contact"
-    url: /contact/    
- 
+    url: /contact/
+
+# main links for Chinese site
+main_zh:
+  - title: "个人简介"
+    url: /chinese/
+    
+  - title: "学术论文"
+    url: /publications/zh/
+
+  - title: "学术报告"
+    url: /talks/zh/
+
+  - title: "获奖荣誉"
+    url: /awards/
+    
+  - title: "学术服务"
+    url: /services/zh/
+
+  - title: "科研项目"
+    url: /grants/zh/
+   
+  - title: "教学"
+    url: /teaching/zh/
+
+  - title: "联系"
+    url: /contact/
+
+# language switcher configuration
+language_switcher:
+  en:
+    label: "English"
+    url: /
+  zh:
+    label: "中文"
+    url: /chinese/

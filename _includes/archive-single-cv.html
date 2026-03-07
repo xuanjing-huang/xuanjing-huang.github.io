@@ -6,10 +6,25 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% comment %} Determine which language to display based on page language {% endcomment %}
+{% assign page_lang = page.lang | default: 'en' %}
+
+{% comment %} For English pages: use English title if available, otherwise original title {% endcomment %}
+{% if page_lang == 'en' %}
+  {% if post.title_en %}
+    {% assign display_title = post.title_en %}
+  {% else %}
+    {% assign display_title = post.title %}
+  {% endif %}
 {% else %}
-  {% assign title = post.title %}
+  {% comment %} For Chinese pages: always use original title (English papers remain in English) {% endcomment %}
+  {% assign display_title = post.title %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = display_title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = display_title %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -36,7 +51,14 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% comment %} Determine display citation based on page language {% endcomment %}
+    {% if page_lang == 'en' and post.citation_en %}
+      {% assign display_citation = post.citation_en %}
+    {% else %}
+      {% assign display_citation = post.citation %}
+    {% endif %}
+    
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ display_citation }}</p> {% endif %}
     </li>
  </article>
 </div>

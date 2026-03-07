@@ -33,9 +33,7 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% if post.lang == "en" %}
-      {% include archive-single-cv.html %}
-    {% endif %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks

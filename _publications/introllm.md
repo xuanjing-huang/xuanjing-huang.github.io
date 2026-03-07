@@ -1,12 +1,16 @@
 ---
 title: "大规模语言模型：从理论与实践（第2版）"
+title_en: "Large Language Models: From Theory to Practice (2nd Edition)"
 collection: publications
 permalink: /publication/intro-llm
 excerpt: '本书将介绍大语言模型的基础理论包括语言模型、分布式模型训练以及强化学习，并以Deepspeed-Chat框架为例介绍实现大语言模型和类ChatGPT系统的实践。'
+excerpt_en: 'This book introduces the fundamental theories of large language models, including language modeling, distributed model training, and reinforcement learning, with practical examples using the Deepspeed-Chat framework to implement large language models and ChatGPT-like systems.'
 date: 2025-04-01
 venue: '电子工业出版社'
+venue_en: 'Electronic Industry Press'
 paperurl: 'https://intro-llm.github.io/'
 citation: '张奇、桂韬、郑锐、黄萱菁：大规模语言模型：从理论与实践（第2版），电子工业出版社，2025'
+citation_en: 'Qi Zhang, Tao Gui, Rui Zheng, Xuanjing Huang: Large Language Models: From Theory to Practice (2nd Edition), Electronic Industry Press, 2025'
 lang: zh
 ---
 ![](/images/llm2.jpg)

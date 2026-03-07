@@ -6,10 +6,25 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% comment %} Determine which language to display based on page language {% endcomment %}
+{% assign page_lang = page.lang | default: 'en' %}
+
+{% comment %} For English pages: use English title if available, otherwise original title {% endcomment %}
+{% if page_lang == 'en' %}
+  {% if post.title_en %}
+    {% assign display_title = post.title_en %}
+  {% else %}
+    {% assign display_title = post.title %}
+  {% endif %}
 {% else %}
-  {% assign title = post.title %}
+  {% comment %} For Chinese pages: always use original title (English papers remain in English) {% endcomment %}
+  {% assign display_title = post.title %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = display_title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = display_title %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -38,24 +53,45 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+        {% comment %} Determine display venue based on page language {% endcomment %}
+        {% if page_lang == 'en' and post.venue_en %}
+          {% assign display_venue = post.venue_en %}
+        {% else %}
+          {% assign display_venue = post.venue %}
+        {% endif %}
+        
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ post.type }}, <i>{{ display_venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in <i>{{ display_venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% comment %} Determine display excerpt based on page language {% endcomment %}
+    {% if page_lang == 'en' and post.excerpt_en %}
+      {% assign display_excerpt = post.excerpt_en %}
+    {% else %}
+      {% assign display_excerpt = post.excerpt %}
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+    {% if display_excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ display_excerpt | markdownify }}</p>
+    {% elsif display_excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ display_excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+    
+    {% comment %} Determine display citation based on page language {% endcomment %}
+    {% if page_lang == 'en' and post.citation_en %}
+      {% assign display_citation = post.citation_en %}
+    {% else %}
+      {% assign display_citation = post.citation %}
+    {% endif %}
+    
+    {% if display_citation and post.paperurl %}
+      <p>Recommended citation: {{ display_citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% elsif display_citation %}
+      <p>Recommended citation: {{ display_citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}

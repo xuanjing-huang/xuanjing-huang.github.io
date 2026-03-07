@@ -18,28 +18,39 @@ layout: default
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    {% comment %}Determine which language fields to use{% endcomment %}
-    {% if page.title_en %}
-      {% assign display_title = page.title_en %}
+    {% comment %}Determine which language fields to use based on page language{% endcomment %}
+    {% assign page_lang = page.lang | default: 'en' %}
+    
+    {% comment %}For English pages: use English fields if available, otherwise original{% endcomment %}
+    {% if page_lang == 'en' %}
+      {% if page.title_en %}
+        {% assign display_title = page.title_en %}
+      {% else %}
+        {% assign display_title = page.title %}
+      {% endif %}
+      
+      {% if page.excerpt_en %}
+        {% assign display_excerpt = page.excerpt_en %}
+      {% else %}
+        {% assign display_excerpt = page.excerpt %}
+      {% endif %}
+      
+      {% if page.venue_en %}
+        {% assign display_venue = page.venue_en %}
+      {% else %}
+        {% assign display_venue = page.venue %}
+      {% endif %}
+      
+      {% if page.citation_en %}
+        {% assign display_citation = page.citation_en %}
+      {% else %}
+        {% assign display_citation = page.citation %}
+      {% endif %}
     {% else %}
+      {% comment %}For Chinese pages: always use original fields (English papers remain in English){% endcomment %}
       {% assign display_title = page.title %}
-    {% endif %}
-    
-    {% if page.excerpt_en %}
-      {% assign display_excerpt = page.excerpt_en %}
-    {% else %}
       {% assign display_excerpt = page.excerpt %}
-    {% endif %}
-    
-    {% if page.venue_en %}
-      {% assign display_venue = page.venue_en %}
-    {% else %}
       {% assign display_venue = page.venue %}
-    {% endif %}
-    
-    {% if page.citation_en %}
-      {% assign display_citation = page.citation_en %}
-    {% else %}
       {% assign display_citation = page.citation %}
     {% endif %}
     

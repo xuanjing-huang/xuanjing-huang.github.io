@@ -41,11 +41,20 @@
           alt="">
       </div>
     {% endif %}
+    {% comment %} Determine which URL to use based on page language and publication language {% endcomment %}
+    {% assign display_url = post.url %}
+    {% if page_lang == 'en' and post.lang == 'zh' %}
+      {% comment %} For Chinese publications on English pages, try to use English version URL {% endcomment %}
+      {% if post.url contains '-zh' %}
+        {% assign display_url = post.url | replace: '-zh', '-en' %}
+      {% endif %}
+    {% endif %}
+    
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ display_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ display_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
     {% if post.read_time %}

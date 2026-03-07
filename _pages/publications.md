@@ -13,6 +13,8 @@ This page features a selection of my publications. For a more comprehensive list
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% comment %} Filter English publications only {% endcomment %}
+{% assign english_publications = site.publications | where: "lang", "en" %}
+{% for post in english_publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

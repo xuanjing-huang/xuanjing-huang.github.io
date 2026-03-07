@@ -7,6 +7,7 @@ date: 2023-08-01
 venue: '电子工业出版社'
 paperurl: 'https://intro-nlp.github.io/'
 citation: '张奇、桂韬、黄萱菁：自然语言处理导论，电子工业出版社，2023'
+lang: zh
 ---
 ![](/images/intro-nlp.png)
 

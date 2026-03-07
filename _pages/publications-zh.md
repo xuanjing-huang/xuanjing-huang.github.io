@@ -14,6 +14,8 @@ lang: zh
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% comment %} Filter Chinese publications only {% endcomment %}
+{% assign chinese_publications = site.publications | where: "lang", "zh" %}
+{% for post in chinese_publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

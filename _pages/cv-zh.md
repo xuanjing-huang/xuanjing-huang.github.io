@@ -32,7 +32,9 @@ redirect_from:
 学术论文
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% if post.lang == "zh" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
   
 学术报告

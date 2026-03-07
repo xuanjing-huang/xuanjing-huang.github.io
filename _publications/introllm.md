@@ -7,6 +7,7 @@ date: 2025-04-01
 venue: '电子工业出版社'
 paperurl: 'https://intro-llm.github.io/'
 citation: '张奇、桂韬、郑锐、黄萱菁：大规模语言模型：从理论与实践（第2版），电子工业出版社，2025'
+lang: zh
 ---
 ![](/images/llm2.jpg)
 

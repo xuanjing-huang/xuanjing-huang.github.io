@@ -1,10 +1,10 @@
 ---
-permalink: /awards/
+permalink: /awards-en/
 title: "Awards"
 author_profile: true
 lang: en
 redirect_from:
-  - /awards.html
+  - /awards-en.html
 ---
 
 ## Academic & Research Awards

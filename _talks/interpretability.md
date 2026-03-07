@@ -7,13 +7,6 @@ venue: "2022年中国多媒体大会"
 date: 2022-07-22
 location: "贵阳，中国"
 ---
-**Title (English):** Interpretability Analysis of Artificial Intelligence: A Case Study in Natural Language Processing
-**Venue (English):** 2022 China Multimedia Conference
-**Location (English):** Guiyang, China
-
 机器学习和深度学习的可解释性指的是以受众可理解的，直截了当的方式解释模型预测值的程度。近年来，深度学习已经在自然语言处理中取得成功应用，大幅度提升了各种任务的性能，但由于其内在复杂性，可理解性和可解释性不够令人满意，也妨碍了深度学习方法的进一步推广。该报告首先介绍什么是可解释性分析，自然语言处理中有哪些可解释性分析任务，可解释性分析的目的，然后从理解模型部件的功能属性、解释模型预测的行为、模型诊断三个方面介绍可解释性分析在自然语言处理领域的发展现状，最后讨论了未来的研究趋势。
-
-**English Translation:**
-The interpretability of machine learning and deep learning refers to the extent to which model predictions can be explained in an understandable and straightforward manner to the audience. In recent years, deep learning has achieved successful applications in natural language processing, significantly improving the performance of various tasks. However, due to its inherent complexity, the comprehensibility and interpretability are not satisfactory, which also hinders the further promotion of deep learning methods. This talk first introduces what interpretability analysis is, what interpretability analysis tasks exist in natural language processing, and the purpose of interpretability analysis. Then, from three aspects—understanding the functional properties of model components, explaining model prediction behaviors, and model diagnosis—it introduces the current development of interpretability analysis in the field of natural language processing. Finally, it discusses future research trends.
 
 [More information here](http://chinamm.csig.org.cn/2022/home.html)

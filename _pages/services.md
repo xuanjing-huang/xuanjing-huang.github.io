@@ -48,13 +48,13 @@ redirect_from:
 * ICLR (2021-2025)
 
 ### Journal AE
-* [SCIENCE CHINA Information Sciences (中国科学: 信息科学)](http://scis.scichina.com/download/ssi-editorialboard.pdf)
+* [SCIENCE CHINA Information Sciences](http://scis.scichina.com/download/ssi-editorialboard.pdf)
 * [Artificial Intelligence](https://aij.ijcai.org/organization-and-governance/)
 * [Computational Linguistics](https://direct.mit.edu/coli/pages/editorial-info)
 * [Journal of AI Research](https://www.jair.org/index.php/jair)
-* [Journal of Software (软件学报)](http://www.jos.org.cn/jos/site/menu/20071206155306001?id=20071206155306001&name=%E7%BC%96%E5%A7%94%E4%BC%9A)
-* [Journal of Computer Research and Development (计算机研究与发展)](https://crad.ict.ac.cn/xianrenbianweihui)
-* [Journal of Chinese Information Processing (中文信息学报)](http://jcip.cipsc.org.cn/CN/column/column2.shtml)
+* [Journal of Software](http://www.jos.org.cn/jos/site/menu/20071206155306001?id=20071206155306001&name=%E7%BC%96%E5%A7%94%E4%BC%9A)
+* [Journal of Computer Research and Development](https://crad.ict.ac.cn/xianrenbianweihui)
+* [Journal of Chinese Information Processing](http://jcip.cipsc.org.cn/CN/column/column2.shtml)
 
 ### Journal Referee
 * Transactions of the Association for Computational Linguistics

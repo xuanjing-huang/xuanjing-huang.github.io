@@ -12,6 +12,15 @@ lang: zh
 
 {% endif %}
 
+{% comment %}On Chinese talks page, show all talks but filter out English translations of Chinese talks{% endcomment %}
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% comment %}Check if this is an English translation of a Chinese talk{% endcomment %}
+  {% assign is_english_translation = false %}
+  {% if post.lang == 'en' and post.path contains '-en.md' %}
+    {% assign is_english_translation = true %}
+  {% endif %}
+  
+  {% unless is_english_translation %}
+    {% include archive-single-talk.html %}
+  {% endunless %}
 {% endfor %}

@@ -12,6 +12,9 @@ lang: en
 
 {% endif %}
 
+{% comment %}On English talks page, only show English talks (lang: en){% endcomment %}
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.lang == 'en' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}

@@ -14,6 +14,15 @@ lang: zh
 
 {% include base_path %}
 
+{% comment %}On Chinese publications page, show all publications but filter out English translations of Chinese papers{% endcomment %}
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% comment %}Check if this is an English translation of a Chinese paper{% endcomment %}
+  {% assign is_english_translation = false %}
+  {% if post.lang == 'en' and post.path contains '-en.md' %}
+    {% assign is_english_translation = true %}
+  {% endif %}
+  
+  {% unless is_english_translation %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}

@@ -13,6 +13,9 @@ This page features a selection of my publications. For a more comprehensive list
 
 {% include base_path %}
 
+{% comment %}On English publications page, only show English publications (lang: en){% endcomment %}
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.lang == 'en' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

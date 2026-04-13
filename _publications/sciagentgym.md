@@ -2,7 +2,7 @@
 title: "SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents"
 collection: publications
 permalink: /publication/sciagentgym-zh
-excerpt: '我们提出了SciAgentGym，一个可扩展的交互环境，包含跨四个自然学科的1780个领域特定工具，并配有强大的执行基础设施。'
+excerpt: '我们提出了SciAgentGym，一个可扩展的交互环境，包含跨4个自然学科的1780个领域特定工具，并配有强大的执行基础设施。'
 date: 2026-02-13
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2602.12984'

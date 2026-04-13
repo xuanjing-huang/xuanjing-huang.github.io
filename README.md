@@ -1,31 +1,167 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Xuanjing Huang's Academic Website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+A bilingual (English/Chinese) academic website for Professor Xuanjing Huang (黄萱菁), built with Jekyll.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Overview
 
-# Instructions
+This is the personal academic website of Professor Xuanjing Huang at [Fudan University](https://www.fudan.edu.cn/en/). The site showcases her research in Natural Language Processing (NLP) and Large Language Models (LLMs), including publications, talks, awards, grants, and teaching activities.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+**Live Site:** https://xuanjing-huang.github.io
 
-See more info at https://academicpages.github.io/
+## Features
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+- **Bilingual Support**: Full English and Chinese language versions
+- **Jekyll-powered**: Static site generation with Markdown content
+- **Academic-focused**: Designed for researchers with sections for publications, talks, CV, and more
+- **Responsive Design**: Mobile-friendly using Sass/SCSS
+- **Collections**: Organized content for publications, talks, teaching, and portfolio
+- **Analytics**: Google Universal Analytics integration
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## Project Structure
 
-# Changelog -- bugfixes and enhancements
+```
+├── _config.yml          # Jekyll configuration
+├── _data/               # Data files (navigation, authors, comments)
+├── _pages/              # Page content (about, publications, talks, etc.)
+├── _posts/              # Blog posts
+├── _publications/       # Publication entries (Markdown files)
+├── _talks/              # Talk entries
+├── _teaching/           # Teaching materials
+├── _portfolio/          # Portfolio items
+├── _includes/           # Reusable HTML components
+├── _layouts/            # Page layouts
+├── _sass/               # Sass stylesheets
+├── assets/              # CSS, JavaScript, fonts, images
+├── files/               # PDF files (publications, CV)
+├── images/              # Image assets
+└── markdown_generator/  # Tools for generating publication markdown
+```
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Navigation Structure
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+### English
+- About, Publications, Talks, Awards, Services, Grants, Teaching, Contact
+
+### Chinese (中文)
+- 个人简介, 学术论文, 学术报告, 获奖荣誉, 学术服务, 科研项目, 教学, 联系
+
+## Getting Started
+
+### Prerequisites
+
+- Ruby (>= 2.4)
+- Bundler
+- Jekyll and its dependencies
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/xuanjing-huang/xuanjing-huang.github.io.git
+   cd xuanjing-huang.github.io
+   ```
+
+2. Install dependencies:
+   ```bash
+   bundle install
+   ```
+
+3. Run the development server:
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+4. Open your browser at `http://localhost:4000`
+
+### Building for Production
+
+```bash
+bundle exec jekyll build
+```
+
+The static site will be generated in the `_site` directory.
+
+## Content Management
+
+### Adding Publications
+
+Create a new Markdown file in `_publications/` with the following front matter:
+
+```yaml
+---
+title: "Your Publication Title"
+collection: publications
+permalink: /publications/your-publication/
+author: Xuanjing Huang
+pub_type: Conference/Journal
+year: 2024
+---
+```
+
+### Adding Talks
+
+Create a new Markdown file in `_talks/` with the following front matter:
+
+```yaml
+---
+title: "Talk Title"
+collection: talks
+permalink: /talks/talk-title/
+author: Xuanjing Huang
+date: 2024-01-01
+venue: Conference Name
+---
+```
+
+### Language Toggle
+
+The site supports bilingual content. Pages can specify language in front matter:
+```yaml
+lang: en  # or "zh" for Chinese
+```
+
+## Technologies Used
+
+- [Jekyll](https://jekyllrb.com/) - Static site generator
+- [Kramdown](https://kramdown.gettalong.org/) - Markdown processor
+- [Sass/SCSS](https://sass-lang.com/) - CSS preprocessor
+- [Font Awesome](https://fontawesome.com/) - Icons
+- [Academicons](https://jpswalsh.github.io/academicons/) - Academic icons
+- [Google Analytics](https://analytics.google.com/) - Analytics
+
+## Customization
+
+### Site Settings
+
+Edit `_config.yml` to customize:
+- Site title and description
+- Author information
+- Social links
+- Analytics tracking ID
+
+### Navigation
+
+Modify `_data/navigation.yml` to change the navigation menu structure.
+
+### Styling
+
+Customize styles in `_sass/` directory. Main stylesheet is in `assets/css/main.scss`.
+
+## Deployment
+
+The site is deployed to GitHub Pages. Any push to the `master` branch will automatically trigger a deployment.
+
+## License
+
+This project is for academic use. Content (publications, text, images) is copyrighted by the author unless otherwise noted.
+
+## Contact
+
+- **Email**: xjhuang@fudan.edu.cn
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=RGsMgZA4H78C)
+- **Semantic Scholar**: [Profile](https://www.semanticscholar.org/author/Xuanjing-Huang/1790227)
+- **ORCID**: [0000-0001-9197-9426](https://orcid.org/0000-0001-9197-9426)
+
+## Acknowledgments
+
+This website is built based on the [Jekyll Academic template](https://github.com/academicpages/academic-pages).

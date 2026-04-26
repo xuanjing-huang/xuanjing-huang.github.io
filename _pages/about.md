@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor at the [College of Computer Science and Artificial Intelligence](http://www.fudan.edu.cn/en/), Fudan University, Shanghai, China, and hold a joint appointment at the [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/), Fudan University. I also serve as a Part-Time Advisor at Shanghai Chuangzhi Academy. I received my Ph.D. in Computer Science from Fudan University in 1998. From 2008 to 2009, I was a Visiting Scholar at [CIIR, University of Massachusetts Amherst](https://ciir.cs.umass.edu/).
+I am Professor at the [College of Computer Science and Artificial Intelligence](http://www.fudan.edu.cn/en/), Fudan University, Shanghai, China, and hold a joint appointment at the [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/), Fudan University. I also serve as a Part-Time Advisor at Shanghai Innovation Institute. I received my Ph.D. in Computer Science from Fudan University in 1998. From 2008 to 2009, I was a Visiting Scholar at [CIIR, University of Massachusetts Amherst](https://ciir.cs.umass.edu/).
 
 I am Head of the [Fudan NLP Lab](https://nlp.fudan.edu.cn/nlpen/main.htm), with research interests in natural language processing and large language models. I have published over 300 papers in leading NLP, AI, and IR conferences and journals, with more than 30,000 citations according to Google Scholar. My work has received several awards, including Best Paper Awards at CCL 2019, CCL 2023, and the Instruction Workshop @ NeurIPS 2023; an Area Chair Favorite Award at COLING 2018; and Outstanding Paper Awards at ACL 2017, NLPCC 2019, and COLING 2022.
 

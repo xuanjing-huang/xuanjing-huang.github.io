@@ -13,6 +13,7 @@ redirect_from:
 * **Key Technologies and Applications of Edge-Cloud Integrated Intelligent Computing**, _Henan Province Science and Technology Progress Award, Second Prize_, **2024**
 * **General AI Computing Systems and Applications**, _Shandong Electronics Society Science and Technology Award, First Prize_, **2024**
 * **Research on Key Technologies for Software Quality and Efficiency Improvement Driven by Multi-dimensional Intelligent Computing Innovation**, _China Association for Quality, Quality Technology Award_, **2024**
+* **Shanghai Excellent Academic Leader**, **2022**
 * **Natural Language Representation Learning and its Open-Source Applications**, _Qian Weichang Chinese Information Processing Award, First Prize_, **2022**
 
 ## Paper & Conference Awards
@@ -36,7 +37,6 @@ redirect_from:
 
 ## Teaching & University Honors
 
-* **Shanghai Excellent Academic Leader**, **2022**
 * **Fudan University "Leo KoGuan Most Popular Teacher Award"**, **2022**
 * **Fudan University "Most Loved Mentor by Graduate Students"**, **2022**
 * **Fudan University "Zhong Yang-style Excellent Teacher"**, **2022**

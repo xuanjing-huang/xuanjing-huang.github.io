@@ -3,7 +3,7 @@ title: "Towards General Long-Horizon Agents: Challenges and Innovations"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/general-agent-en
-date: 2025-04-30
+date: 2025-12-26
 lang: en
 ---
 

@@ -4,7 +4,7 @@ title_en: "From Large Language Models to World Models"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/llm-to-world-model-zh
-date: 2024-10-21
+date: 2024-10-22
 lang: zh
 ---
 

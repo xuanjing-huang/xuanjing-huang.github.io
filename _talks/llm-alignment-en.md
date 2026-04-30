@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/llm-alignment-en
 venue: "China Conference on Image and Graphics (CCIG 2025)"
-date: 2025-04-30
+date: 2025-05-09
 lang: en
 ---
 

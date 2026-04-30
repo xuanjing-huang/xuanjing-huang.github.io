@@ -4,7 +4,7 @@ title_en: "Turbocharging LLMs for Scientific Discovery"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/llm-scientific-discovery-zh
-date: 2025-04-30
+date: 2025-12-07
 lang: zh
 ---
 

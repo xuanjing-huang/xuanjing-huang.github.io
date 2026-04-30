@@ -5,7 +5,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/llm-alignment-zh
 venue: "中国图象图形学学会 (CCIG 2025)"
-date: 2025-04-30
+date: 2025-05-09
 lang: zh
 ---
 

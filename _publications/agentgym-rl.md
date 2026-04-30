@@ -9,9 +9,6 @@ paperurl: 'https://arxiv.org/abs/2509.08755'
 citation: 'Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Xin Guo, Dingwen Yang, Chenyang Liao, Wei He, Songyang Gao, Lu Chen, Rui Zheng, Yicheng Zou, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang. AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning. arXiv:2509.08755, 2025.'
 lang: en
 ---
-
-![](/images/pubs/agentgym-rl.png)
-
 Large language models (LLMs) have shown remarkable capabilities in various natural language processing tasks, but training them to act as effective agents for long-horizon decision-making remains challenging. Traditional reinforcement learning (RL) methods often struggle with the sparse rewards and complex state spaces inherent in multi-turn interactions. To address this, we introduce AgentGym-RL, a novel framework that leverages multi-turn reinforcement learning to train LLM-based agents for long-horizon decision-making tasks.
 
 AgentGym-RL extends the AgentGym platform by incorporating a comprehensive RL training pipeline that includes: (1) a diverse set of environments spanning 7 real-world scenarios and 14 distinct tasks, (2) a multi-turn interaction mechanism that allows agents to learn from sequential decisions, (3) a reward shaping strategy that provides meaningful feedback for long-horizon tasks, and (4) an efficient training protocol that balances exploration and exploitation.

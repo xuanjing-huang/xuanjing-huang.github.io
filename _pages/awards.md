@@ -9,6 +9,7 @@ redirect_from:
 
 ## Academic & Research Awards
 
+* **Key Technologies and Applications of AI Computing Server Systems**, _China Association of Inventions, Invention and Entrepreneurship Achievement Award, First Prize_, **2025**
 * **Multi-task Driven Pretraining Methods for Language Models**, _Wu Wenjun AI Science and Technology Award, Natural Science_, **2025**
 * **Key Technologies and Applications of Edge-Cloud Integrated Intelligent Computing**, _Henan Province Science and Technology Progress Award, Second Prize_, **2024**
 * **General AI Computing Systems and Applications**, _Shandong Electronics Society Science and Technology Award, First Prize_, **2024**

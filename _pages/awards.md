@@ -38,9 +38,9 @@ redirect_from:
 
 ## Teaching & University Honors
 
+* **Construction of a First-Class AI Talent Cultivation System Integrating Frontier Research, Open-Source Advocacy, and Practical Training**, _Shanghai Computer Society Teaching Achievement Award, First Prize_, **2025**
 * **Fudan University "Leo KoGuan Most Popular Teacher Award"**, **2022**
 * **Fudan University "Most Loved Mentor by Graduate Students"**, **2022**
 * **Fudan University "Zhong Yang-style Excellent Teacher"**, **2022**
-* **Construction of a First-Class AI Talent Cultivation System Integrating Frontier Research, Open-Source Advocacy, and Practical Training**, _Shanghai Computer Society Teaching Achievement Award, First Prize_, **2025**
 * **Shanghai Yucai Award**, **2021**
 * **Construction of Core AI Courses in New Engineering Based on Multi-dimensional Teaching Mode**, _Shanghai Computer Society Teaching Achievement Award, First Prize_, **2021**

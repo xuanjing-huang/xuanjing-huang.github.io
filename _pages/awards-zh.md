@@ -19,7 +19,8 @@ redirect_from:
 
 ## 学术论文与会议奖
 
-* **大模型时代的自然语言处理：挑战、机遇与发展**，_Science China (Information Sciences)_, 2023, 53(9), _**领跑者5000中国精品科技期刊顶尖学术论文**_，**2025**
+* **大模型时代的自然语言处理：挑战、机遇与发展**，_《中国科学：信息科学》2025年度优秀热点论文_，**2025**
+* **大模型时代的自然语言处理：挑战、机遇与发展**，_中国科学：信息科学》_, 2023, 53(9), _**领跑者5000中国精品科技期刊顶尖学术论文**_，**2025**
 * [**Delve into PPO: Implementation Matters for Stable RLHF**](https://openreview.net/pdf?id=rxEmiOEIFL)，_Workshop on Instruction Tuning and Instruction Following @ NeurIPS 2023_，_**Best Paper Award**_，**2023**
 * [**Rethinking Label Smoothing on Multi-Hop Question Answering**](https://arxiv.org/abs/2212.09512)，_**CCL Best Paper Award**_，**2023**
 * [**A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck**](http://xuanjing-huang.github.io/publication/mft)，_**COLING Outstanding Paper Award**_，**2022**

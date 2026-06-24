@@ -19,6 +19,7 @@ redirect_from:
 
 ## Paper & Conference Awards
 
+* **Natural Language Processing in the Era of Large Language Models: Challenges, Opportunities, and Developments**, _Outstanding Hot Paper of Science China (Information Sciences)_, **2025**
 * **Natural Language Processing in the Era of Large Language Models: Challenges, Opportunities, and Developments**, _Science China (Information Sciences)_, 2023, 53(9), _**FRONTRUNNER 5000 TOP ARTICLES IN OUTSTANDING S&T JOURNALS OF CHINA**_, **2025**
 * [**Delve into PPO: Implementation Matters for Stable RLHF**](https://openreview.net/pdf?id=rxEmiOEIFL), _Workshop on Instruction Tuning and Instruction Following @ NeurIPS 2023_, _**Best Paper Award**_, **2023**
 * [**Rethinking Label Smoothing on Multi-Hop Question Answering**](https://arxiv.org/abs/2212.09512), _**CCL Best Paper Award**_, **2023**

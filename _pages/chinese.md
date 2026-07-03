@@ -8,7 +8,7 @@ redirect_from:
   - /chinese.html
 ---
 
-复旦大学特聘教授，[上海创智学院](https://www.sii.edu.cn/)分时导师，国家级领军人才，上海市优秀学术带头人。主要从事人工智能、自然语言处理与大语言模型研究，聚焦基础语言模型与推理、大语言模型价值对齐、智能体、模型可解释性。
+复旦大学特聘教授，[上海人工智能实验室](https://www.shlab.org.cn/)双聘领军科学家，[上海创智学院](https://www.sii.edu.cn/)分时导师，国家级领军人才，上海市优秀学术带头人。主要从事人工智能、自然语言处理与大语言模型研究，聚焦基础语言模型与推理、大语言模型价值对齐、智能体、模型可解释性。
 
 兼任中国计算机学会理事、[自然语言处理专委会](http://tcci.ccf.org.cn/)主任，[中国中文信息学会](http://www.cipsc.org.cn/)理事，[国际计算语言学学会（ACL）](https://www.aclweb.org/portal/about)执委、[国际计算语言学学会亚太分会（AACL）](https://aaclnet.org/about.html)主席，[亚太信息检索学会（SIGIR-AP）](http://www.sigir-ap.org/)指导委员会委员；曾任 [SIGIR-AP 2023](http://www.sigir-ap.org/sigir-ap-2023/) 与 [EMNLP 2021](http://2021.emnlp.org) 程序委员会联合主席。
 

@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor at the [College of Computer Science and Artificial Intelligence](http://www.fudan.edu.cn/en/), Fudan University, Shanghai, China, and hold a joint appointment at the [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/), Fudan University. I also serve as a Part-Time Advisor at [Shanghai Innovation Institute](https://www.sii.edu.cn/).
+I am Professor at the [College of Computer Science and Artificial Intelligence](http://www.fudan.edu.cn/en/), Fudan University, Shanghai, China, and hold a joint appointment at the [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/), Fudan University. I also serve as a Dual-Appointment Leading Scientist at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) and a Part-Time Advisor at [Shanghai Innovation Institute](https://www.sii.edu.cn/).
 
 My research interests are in artificial intelligence, natural language processing, and large language models, with a focus on foundation language models and reasoning, LLM value alignment, autonomous agents, and model interpretability. I have published over 300 papers in leading NLP, AI, and IR conferences and journals, with more than 40,000 citations according to Google Scholar. My work has received several awards, including Best Paper Awards at CCL 2019, CCL 2023, and the Instruction Workshop @ NeurIPS 2023; an Area Chair Favorite Award at COLING 2018; and Outstanding Paper Awards at ACL 2017, NLPCC 2019, and COLING 2022. Additionally, two of my papers have been recognized with annual outstanding paper awards by the Science China series journals.
 

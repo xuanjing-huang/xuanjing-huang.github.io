@@ -16,6 +16,7 @@ redirect_from:
 * **Research on Key Technologies for Software Quality and Efficiency Improvement Driven by Multi-dimensional Intelligent Computing Innovation**, _China Association for Quality, Quality Technology Award_, **2024**
 * **Shanghai Excellent Academic Leader**, **2022**
 * **Natural Language Representation Learning and its Open-Source Applications**, _Qian Weichang Chinese Information Processing Award, First Prize_, **2022**
+* **Key Technologies and Applications of On-Device Multimodal Perception and Interaction**, _Shanghai Science and Technology Progress Award, First Prize_, **2005**
 
 ## Paper & Conference Awards
 

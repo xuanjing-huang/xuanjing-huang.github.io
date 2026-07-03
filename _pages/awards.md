@@ -9,6 +9,7 @@ redirect_from:
 
 ## Academic & Research Awards
 
+* **Key Technologies and Applications of On-Device Multimodal Perception and Interaction**, _Shanghai Science and Technology Progress Award, First Prize_, **2025**
 * **Key Technologies and Applications of AI Computing Server Systems**, _China Association of Inventions, Invention and Entrepreneurship Achievement Award, First Prize_, **2025**
 * **Multi-task Driven Pretraining Methods for Language Models**, _Wu Wenjun AI Science and Technology Award, Natural Science, First Prize_, **2025**
 * **Key Technologies and Applications of Edge-Cloud Integrated Intelligent Computing**, _Henan Province Science and Technology Progress Award, Second Prize_, **2024**
@@ -16,7 +17,6 @@ redirect_from:
 * **Research on Key Technologies for Software Quality and Efficiency Improvement Driven by Multi-dimensional Intelligent Computing Innovation**, _China Association for Quality, Quality Technology Award_, **2024**
 * **Shanghai Excellent Academic Leader**, **2022**
 * **Natural Language Representation Learning and its Open-Source Applications**, _Qian Weichang Chinese Information Processing Award, First Prize_, **2022**
-* **Key Technologies and Applications of On-Device Multimodal Perception and Interaction**, _Shanghai Science and Technology Progress Award, First Prize_, **2005**
 
 ## Paper & Conference Awards
 

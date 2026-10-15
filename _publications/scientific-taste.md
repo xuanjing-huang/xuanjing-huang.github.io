@@ -5,9 +5,9 @@ pub_category: ai-scientist
 permalink: /publication/scientific-taste-zh
 excerpt: '我们提出了基于社区反馈的强化学习（RLCF），这是一种利用大规模社区信号作为监督的训练范式，并将科学品味学习形式化为偏好建模和对齐问题。'
 date: 2026-03-15
-venue: 'ArXiv'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2603.14473'
-citation: 'Jingqi Tong, Mingzhe Li, Hangcheng Li, Yongzhuo Yang, Yurong Mou, Weijie Ma, Zhiheng Xi, Hongji Chen, Xiaoran Liu, Qinyuan Cheng, Ming Zhang, Qiguang Chen, Weifeng Ge, Qipeng Guo, Tianlei Ying, Tianxiang Sun, Yining Zheng, Xinchi Chen, Jun Zhao, Ning Ding, Xuanjing Huang, Yugang Jiang, Xipeng Qiu: AI Can Learn Scientific Taste. ArXiv 2603.14473 (2026)'
+citation: 'Jingqi Tong, Mingzhe Li, Hangcheng Li, Yongzhuo Yang, Yurong Mou, Weijie Ma, Zhiheng Xi, Hongji Chen, Xiaoran Liu, Qinyuan Cheng, Ming Zhang, Qiguang Chen, Weifeng Ge, Qipeng Guo, Tianlei Ying, Tianxiang Sun, Yining Zheng, Xinchi Chen, Jun Zhao, Ning Ding, Xuanjing Huang, Yugang Jiang, Xipeng Qiu: AI Can Learn Scientific Taste. arXiv:2603.14473, 2026.'
 lang: zh
 ---
 

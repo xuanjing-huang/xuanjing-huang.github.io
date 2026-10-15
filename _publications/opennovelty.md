@@ -5,7 +5,7 @@ pub_category: ai-scientist
 permalink: /publication/opennovelty
 excerpt: 'We introduce OpenNovelty, an LLM-powered agentic system for verifiable scholarly novelty assessment that addresses the critical need for automated, reliable evaluation of research novelty.'
 date: 2026-01-03
-venue: 'arXiv preprint'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2601.01576'
 citation: 'Yifan Liu, Yifan Wang, Zixuan Li, Zizheng Wang, Zihan Wang, Wenxuan Wang, Yifei Wang, Yifan Song, Yifan Liu, Xuanjing Huang, Zhilin Yang, Wei Chen, Tao Gui:
 OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment. arXiv preprint arXiv:2601.01576 (2026)'

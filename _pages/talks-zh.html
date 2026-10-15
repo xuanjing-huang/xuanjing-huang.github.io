@@ -6,12 +6,6 @@ author_profile: true
 lang: zh
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">查看我所有演讲地点的地图！</a></p>
-
-{% endif %}
-
 {% comment %}On Chinese talks page, show all talks but filter out English translations of Chinese talks{% endcomment %}
 {% for post in site.talks reversed %}
   {% comment %}Check if this is an English translation of a Chinese talk{% endcomment %}

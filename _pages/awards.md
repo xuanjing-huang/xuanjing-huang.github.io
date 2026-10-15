@@ -40,6 +40,7 @@ redirect_from:
 
 ## Teaching & University Honors
 
+* **Leader of Fudan University "Zhong Yang-style Teaching Team"**, **2026**
 * **Construction of a First-Class AI Talent Cultivation System Integrating Frontier Research, Open-Source Advocacy, and Practical Training**, _Shanghai Computer Society Teaching Achievement Award, First Prize_, **2025**
 * **Fudan University "Leo KoGuan Most Popular Teacher Award"**, **2022**
 * **Fudan University "Most Loved Mentor by Graduate Students"**, **2022**

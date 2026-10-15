@@ -1,12 +1,13 @@
 ---
 title: "SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents"
 collection: publications
+pub_category: ai-scientist
 permalink: /publication/sciagentgym-en
 excerpt: 'We introduce SciAgentGym, a scalable interactive environment featuring 1,780 domain-specific tools across four natural science disciplines, supported by a robust execution infrastructure.'
 date: 2026-02-13
-venue: 'ArXiv'
+venue: 'International Conference on Machine Learning (ICML 2026)'
 paperurl: 'https://arxiv.org/pdf/2602.12984'
-citation: 'Yujiong Shen, Yajie Yang, Zhiheng Xi, Binze Hu, Huayu Sha, Jiazheng Zhang, Qiyuan Peng, Junlin Shang, Jixuan Huang, Yutao Fan, Jingqi Tong, Shihan Dou, Ming Zhang, Lei Bai, Zhenfei Yin, Tao Gui, Xingjun Ma, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang: SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents. ArXiv 2602.12984 (2026)'
+citation: 'Yujiong Shen, Yajie Yang, Zhiheng Xi, Binze Hu, Huayu Sha, Jiazheng Zhang, Qiyuan Peng, Junlin Shang, Jixuan Huang, Yutao Fan, Jingqi Tong, Shihan Dou, Ming Zhang, Lei Bai, Zhenfei Yin, Tao Gui, Xingjun Ma, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang: SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents. ICML 2026'
 lang: en
 ---
 

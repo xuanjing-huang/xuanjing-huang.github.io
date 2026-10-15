@@ -1,6 +1,7 @@
 ---
 title: "Adversarial Multi-Criteria Learning for Chinese Word Segmentation"
 collection: publications
+pub_category: classic
 permalink: /publication/cws
 excerpt: 'In this paper, we propose adversarial multi-criteria learning for CWS by integrating shared knowledge from multiple heterogeneous segmentation criteria.'
 date: 2017-07-30

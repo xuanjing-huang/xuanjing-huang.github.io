@@ -1,6 +1,7 @@
 ---
 title: "Searching for Best Practices in Retrieval-Augmented Generation"
 collection: publications
+pub_category: foundation
 permalink: /publication/rag-best-practices
 excerpt: 'Retrieval-augmented generation (RAG) techniques have proven to be effective in integrating up-to-date information, mitigating hallucinations, and enhancing response quality, particularly in specialized domains. While many RAG approaches have been proposed to enhance large language models through query-dependent retrievals, these approaches still suffer from their complex implementation and prolonged response times.'
 date: 2024-11-01

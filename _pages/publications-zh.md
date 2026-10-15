@@ -14,15 +14,24 @@ lang: zh
 
 {% include base_path %}
 
-{% comment %}On Chinese publications page, show all publications but filter out English translations of Chinese papers{% endcomment %}
-{% for post in site.publications reversed %}
-  {% comment %}Check if this is an English translation of a Chinese paper{% endcomment %}
-  {% assign is_english_translation = false %}
-  {% if post.lang == 'en' and post.path contains '-en.md' %}
-    {% assign is_english_translation = true %}
+{% comment %}Publications are grouped by pub_category (see _data/pub_categories.yml); newest first within each group. Chinese page shows all entries except English translations (-en.md) of Chinese papers.{% endcomment %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+<p>
+{% for cat in site.data.pub_categories %}<a href="#{{ cat.id }}">{{ cat.zh }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+</p>
+
+{% for cat in site.data.pub_categories %}
+<h2 id="{{ cat.id }}" class="archive__subtitle">{{ cat.zh }}</h2>
+{% for post in pubs %}
+  {% if post.pub_category == cat.id %}
+    {% assign is_english_translation = false %}
+    {% if post.lang == 'en' and post.path contains '-en.md' %}
+      {% assign is_english_translation = true %}
+    {% endif %}
+    {% unless is_english_translation %}
+      {% include archive-single.html %}
+    {% endunless %}
   {% endif %}
-  
-  {% unless is_english_translation %}
-    {% include archive-single.html %}
-  {% endunless %}
+{% endfor %}
 {% endfor %}

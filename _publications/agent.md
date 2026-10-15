@@ -1,6 +1,7 @@
 ---
 title: "The Rise and Potential of Large Language Model Based Agents: A Survey"
 collection: publications
+pub_category: agents
 permalink: /publication/agent
 excerpt: 'In this paper, we perform a comprehensive survey on LLM-based agents.'
 date: 2025-02-01

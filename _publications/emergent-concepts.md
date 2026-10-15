@@ -1,6 +1,7 @@
 ---
 title: "Revealing emergent human-like conceptual representations from language prediction"
 collection: publications
+pub_category: interpretability
 permalink: /publication/emergent-concepts
 excerpt: 'People acquire concepts through rich physical and social experiences and use them to understand and navigate the world. In contrast, large language models (LLMs), trained solely through next-token prediction on text, exhibit strikingly human-like behaviors. Are these models developing concepts akin to those in humans?'
 date: 2025-11-04

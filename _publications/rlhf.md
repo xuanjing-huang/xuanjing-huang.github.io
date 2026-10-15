@@ -1,6 +1,7 @@
 ---
 title: "Secrets of RLHF in Large Language Models Part I: PPO"
 collection: publications
+pub_category: alignment
 permalink: /publication/rlhf
 excerpt: 'We dissect the framework of RLHF, re-evaluate the inner workings of PPO, and explore how the parts comprising PPO algorithms impact policy agent training.'
 date: 2023-07-01

@@ -1,6 +1,7 @@
 ---
 title: "CL-bench: A Benchmark for Context Learning"
 collection: publications
+pub_category: foundation
 permalink: /publication/cl-bench
 excerpt: 'Current language models (LMs) excel at reasoning over prompts using pre-trained knowledge. However, real-world tasks are far more complex and context-dependent: models must learn from task-specific context and leverage new knowledge beyond what is learned during pre-training to reason and resolve tasks. We term this capability context learning, a crucial ability that humans naturally possess but has been largely overlooked.'
 date: 2026-02-03

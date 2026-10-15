@@ -1,6 +1,7 @@
 ---
 title: "How to Fine-Tune BERT for Text Classification?"
 collection: publications
+pub_category: classic
 permalink: /publication/bert-ft
 excerpt: ' In this paper, we conduct exhaustive experiments to investigate different fine-tuning methods of BERT on text
 classification task.'

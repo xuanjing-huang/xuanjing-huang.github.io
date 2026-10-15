@@ -1,6 +1,7 @@
 ---
 title: "AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress"
 collection: publications
+pub_category: agents
 permalink: /publication/agentprm
 excerpt: 'We propose AgentPRM, a re-defined process reward model for LLM agent tasks that captures both the interdependence between sequential decisions and their contribution to the final goal, enabling better progress tracking and exploration-exploitation balance.'
 date: 2026-04-28

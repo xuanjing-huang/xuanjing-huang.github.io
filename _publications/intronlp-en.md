@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Natural Language Processing"
 collection: publications
+pub_category: books
 permalink: /publication/intro-nlp-en
 excerpt: 'With the widespread application of natural language processing and the rapid advancement of machine learning algorithms represented by deep learning, natural language processing algorithms and research tasks have been developing rapidly in recent years. Since 2003, the authors have taught natural language processing courses for undergraduates, master students, and doctoral students at the School of Computer Science and Technology, Fudan University. This book summarizes years of teaching and research, aiming to provide readers with a more systematic and comprehensive understanding of natural language processing.'
 date: 2023-08-01

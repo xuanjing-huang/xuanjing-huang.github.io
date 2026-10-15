@@ -1,6 +1,7 @@
 ---
 title: "FLAT: Chinese NER Using Flat-Lattice Transformer"
 collection: publications
+pub_category: classic
 permalink: /publication/FLAT
 excerpt: 'In this paper, we propose FLAT: Flat-LAttice Transformer for Chinese NER, which converts the lattice structure into a flat structure consisting of spans.'
 date: 2020-07-05

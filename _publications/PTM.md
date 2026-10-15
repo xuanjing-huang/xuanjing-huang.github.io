@@ -1,6 +1,7 @@
 ---
 title: "Pre-trained Models for Natural Language Processing: A Survey"
 collection: publications
+pub_category: classic
 permalink: /publication/PTM
 excerpt: 'In this survey, we provide a comprehensive review of PTMs for NLP.'
 date: 2020-10-01

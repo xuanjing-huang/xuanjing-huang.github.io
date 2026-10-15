@@ -1,6 +1,7 @@
 ---
 title: "Large Language Models: From Theory to Practice (2nd Edition)"
 collection: publications
+pub_category: books
 permalink: /publication/intro-llm-en
 excerpt: 'This book introduces the fundamental theories of large language models, including language modeling, distributed model training, and reinforcement learning, with practical examples using the Deepspeed-Chat framework to implement large language models and ChatGPT-like systems.'
 date: 2025-04-01

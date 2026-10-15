@@ -1,6 +1,7 @@
 ---
 title: "Secrets of RLHF in Large Language Models Part II: Reward Modeling"
 collection: publications
+pub_category: alignment
 permalink: /publication/reward
 excerpt: ' From a data perspective, we propose a method to measure the strength of preferences within the data, based on a voting mechanism of multiple reward models. From an algorithmic standpoint, we introduce contrastive learning to enhance the ability of reward models to distinguish between chosen and rejected responses, thereby improving model generalization.'
 date: 2024-01-01

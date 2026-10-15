@@ -1,6 +1,7 @@
 ---
 title: "Recurrent Neural Network for Text Classification with Multi-Task Learning"
 collection: publications
+pub_category: classic
 permalink: /publication/RNN
 excerpt: 'We propose three different mechanisms of sharing information to model text with task-specific and shared layers.'
 date: 2016-07-09

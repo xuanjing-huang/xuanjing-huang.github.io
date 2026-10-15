@@ -1,6 +1,7 @@
 ---
 title: "K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters"
 collection: publications
+pub_category: classic
 permalink: /publication/K-Adapter
 excerpt: 'The paper proposes a framework that retains the original parameters of the pre-trained model fixed and supports the development of versatile knowledge-infused model.'
 date: 2021-08-01

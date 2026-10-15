@@ -1,6 +1,7 @@
 ---
 title: "Adversarial Multi-task Learning for Text Classification"
 collection: publications
+pub_category: classic
 permalink: /publication/amt
 excerpt: 'The paper proposed an adversarial multi-task learning framework, alleviating the shared and private latent feature spaces from interfering with each other.'
 date: 2017-7-01

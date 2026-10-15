@@ -1,0 +1,23 @@
+# Publication categories, in display order.
+# Each _publications/*.md sets `pub_category:` to one of the ids below.
+- id: agents
+  en: "LLM-based Agents"
+  zh: "大模型智能体"
+- id: ai-scientist
+  en: "AI Scientist"
+  zh: "AI 科学家"
+- id: alignment
+  en: "Alignment & RLHF"
+  zh: "价值对齐与 RLHF"
+- id: foundation
+  en: "Foundation Models, Evaluation & Applications"
+  zh: "基础模型、评测与应用"
+- id: interpretability
+  en: "Interpretability & Cognition"
+  zh: "可解释性与认知"
+- id: classic
+  en: "Pre-trained Models & Classic NLP"
+  zh: "预训练模型与经典 NLP"
+- id: books
+  en: "Books"
+  zh: "著作"

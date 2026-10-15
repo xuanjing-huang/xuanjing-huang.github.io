@@ -1,6 +1,7 @@
 ---
 title: "AgentGym: Evaluating and Training Large Language Model-based Agents across Diverse Environments"
 collection: publications
+pub_category: agents
 permalink: /publication/agentgym
 excerpt: 'Large language models (LLMs) have emerged as a promising foundation to build generally-capable agents (LLM-based agents) that can handle multi-turn decision-making tasks across various environments. However, the community lacks a unified interactive framework that covers diverse environments for comprehensive evaluation of agents, and enables exploration and learning for their self-improvement.'
 date: 2025-07-01

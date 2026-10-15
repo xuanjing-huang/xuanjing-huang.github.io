@@ -1,6 +1,7 @@
 ---
 title: "AI Can Learn Scientific Taste"
 collection: publications
+pub_category: ai-scientist
 permalink: /publication/scientific-taste-en
 excerpt: 'We propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem.'
 date: 2026-03-15

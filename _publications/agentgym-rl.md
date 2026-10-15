@@ -1,6 +1,7 @@
 ---
 title: "AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning"
 collection: publications
+pub_category: agents
 permalink: /publication/agentgym-rl
 excerpt: 'We propose AgentGym-RL, a reinforcement learning framework for training large language model (LLM)-based agents to tackle long-horizon decision-making tasks through multi-turn interactions.'
 date: 2025-09-01

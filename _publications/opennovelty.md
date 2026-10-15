@@ -1,6 +1,7 @@
 ---
 title: "OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment"
 collection: publications
+pub_category: ai-scientist
 permalink: /publication/opennovelty
 excerpt: 'We introduce OpenNovelty, an LLM-powered agentic system for verifiable scholarly novelty assessment that addresses the critical need for automated, reliable evaluation of research novelty.'
 date: 2026-01-03

@@ -13,9 +13,18 @@ This page features a selection of my publications. For a more comprehensive list
 
 {% include base_path %}
 
-{% comment %}On English publications page, only show English publications (lang: en){% endcomment %}
-{% for post in site.publications reversed %}
-  {% if post.lang == 'en' %}
+{% comment %}Publications are grouped by pub_category (see _data/pub_categories.yml); newest first within each group. English page shows only lang: en entries.{% endcomment %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+<p>
+{% for cat in site.data.pub_categories %}<a href="#{{ cat.id }}">{{ cat.en }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+</p>
+
+{% for cat in site.data.pub_categories %}
+<h2 id="{{ cat.id }}" class="archive__subtitle">{{ cat.en }}</h2>
+{% for post in pubs %}
+  {% if post.pub_category == cat.id and post.lang == 'en' %}
     {% include archive-single.html %}
   {% endif %}
+{% endfor %}
 {% endfor %}

@@ -1,6 +1,7 @@
 ---
 title: "大规模语言模型：从理论与实践（第2版）"
 collection: publications
+pub_category: books
 permalink: /publication/intro-llm-zh
 excerpt: '本书将介绍大语言模型的基础理论包括语言模型、分布式模型训练以及强化学习，并以Deepspeed-Chat框架为例介绍实现大语言模型和类ChatGPT系统的实践。'
 date: 2025-04-01

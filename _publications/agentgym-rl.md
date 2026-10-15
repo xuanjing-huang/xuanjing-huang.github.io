@@ -1,21 +1,15 @@
 ---
-title: "AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning"
+title: "AgentGym-RL: An Open-Source Framework to Train LLM Agents for Long-Horizon Decision Making via Multi-Turn RL"
 collection: publications
 pub_category: agents
 permalink: /publication/agentgym-rl
-excerpt: 'We propose AgentGym-RL, a reinforcement learning framework for training large language model (LLM)-based agents to tackle long-horizon decision-making tasks through multi-turn interactions.'
-date: 2025-09-01
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2509.08755'
-citation: 'Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Xin Guo, Dingwen Yang, Chenyang Liao, Wei He, Songyang Gao, Lu Chen, Rui Zheng, Yicheng Zou, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang. AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning. arXiv:2509.08755, 2025.'
+excerpt: 'We propose AgentGym-RL, an open-source, modular framework for training LLM agents from scratch with multi-turn reinforcement learning across diverse real-world environments, together with ScalingInter-RL, a staged training approach for stable long-horizon RL.'
+date: 2026-04-23
+venue: 'International Conference on Learning Representations (ICLR 2026), Oral'
+paperurl: 'https://openreview.net/forum?id=ZgCCDwcGwn'
+citation: 'Zhiheng Xi, Jixuan Huang, Chenyang Liao, Baodai Huang, Jiaqi Liu, Honglin Guo, Yajie Yang, Rui Zheng, Junjie Ye, Jiazheng Zhang, Wenxiang Chen, Wei He, Yiwen Ding, Guanyu Li, Zehui Chen, Zhengyin Du, Xuesong Yao, Yufei Xu, Jiecao Chen, Tao Gui, Zuxuan Wu, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang. AgentGym-RL: An Open-Source Framework to Train LLM Agents for Long-Horizon Decision Making via Multi-Turn RL. ICLR 2026 (Oral).'
 lang: en
 ---
-Large language models (LLMs) have shown remarkable capabilities in various natural language processing tasks, but training them to act as effective agents for long-horizon decision-making remains challenging. Traditional reinforcement learning (RL) methods often struggle with the sparse rewards and complex state spaces inherent in multi-turn interactions. To address this, we introduce AgentGym-RL, a novel framework that leverages multi-turn reinforcement learning to train LLM-based agents for long-horizon decision-making tasks.
+Training LLM agents for complex multi-turn decision-making tasks requires extensive exploration within their environment, with reinforcement learning (RL) as a natural way. However, the open-source community currently lacks a unified RL framework capable of training agents from scratch across diverse and realistic environments. To bridge this gap, we introduce AgentGym-RL, a modular and decoupled framework specifically designed for RL-based agent in multi-turn decision-making tasks. It offers high flexibility and extensibility, supports mainstream RL algorithms, and spans a broad range of real-world scenarios. To effectively train agents for challenging tasks, we argue that they are required to expand external interactions with the environment, rather than relying solely on internal reasoning. Nevertheless, training agents for long-horizon interaction with vanilla methods often faces challenges like training instability. To this end, we propose ScalingInter-RL, a staged training approach for stable long-horizon RL training. It starts with short-horizon interaction to establish foundational policies and progressively expands them to encourage deeper exploration. Extensive experiments show that agents trained with our method achieve performance on par with—or even surpass—commercial counterparts like OpenAI o3 and Gemini-2.5-Pro across 27 tasks in diverse environments. We share key insights and release the full framework, including code and datasets, to empower the community in building the next generation of intelligent agents. Our framework is available at https://github.com/WooooDyy/AgentGym-RL.
 
-AgentGym-RL extends the AgentGym platform by incorporating a comprehensive RL training pipeline that includes: (1) a diverse set of environments spanning 7 real-world scenarios and 14 distinct tasks, (2) a multi-turn interaction mechanism that allows agents to learn from sequential decisions, (3) a reward shaping strategy that provides meaningful feedback for long-horizon tasks, and (4) an efficient training protocol that balances exploration and exploitation.
-
-Our experiments demonstrate that AgentGym-RL significantly improves agent performance on long-horizon tasks compared to baseline methods. The trained agents achieve state-of-the-art results on benchmark tasks while maintaining sample efficiency. Furthermore, we show that the learned policies transfer effectively to unseen environments, highlighting the generalization capabilities of our approach.
-
-The AgentGym-RL framework represents an important step toward developing more capable and general-purpose AI agents that can handle complex, multi-step decision-making in real-world scenarios. We release our code, environments, and trained models to facilitate further research in this direction.
-
-[Download paper here](https://arxiv.org/abs/2509.08755)
+[Download paper here](https://openreview.net/forum?id=ZgCCDwcGwn) · [arXiv](https://arxiv.org/abs/2509.08755)

@@ -18,8 +18,9 @@ redirect_from:
 
 ## 最新动态
 
-* **[2026.09]** 发布 [Atria Dawn: The Dawn of Agentic Superintelligence](/publication/atria-dawn)：面向科研与工程工作流的智能体基础模型，并以其研发过程为案例，分析人机协作方式的变化。
-* **[2026]** 担任复旦大学"[钟扬式教学团队](/awards-zh/#教学与校内荣誉)"负责人。
-* **[2026.02]** 发布 [CL-bench: A Benchmark for Context Learning](/publication/cl-bench)：由领域专家构建的 500 个上下文、1,899 个任务，评测语言模型能否从上下文中学习新知识。
+* **[2026.09]** 与上海人工智能实验室发布 [Atria Dawn](/publication/atria-dawn)：基于 7440 亿参数 MoE 基座、支持 256K 上下文的开源智能体模型（MIT 协议），面向需要调用工具、多步执行的科研与工程任务，如深度调研、软件开发和报告生成。在 16 项基准上与前沿智能体相当，其中 5 项取得目前最高成绩。
+* **[2026.09]** 本人负责的复旦大学 AI 大课教学团队荣获复旦大学 2026 年"钟扬式"好团队表彰。团队累计建设 AI-BEST 体系课程 32 门，占全校立项总量的 33%。
+* **[2026.04]** 发布 [Agentic Harness Engineering（AHE）](/publication/agentic-harness-engineering)：让编程智能体自动演化自身的 harness。经过 10 轮迭代，Terminal-Bench 2 通过率从 69.7% 提升到 77.0%，超过人工设计的 Codex-CLI；演化出的 harness 可以直接迁移到 SWE-bench Verified 和其他模型系列上。
+* **[2026.02]** 与腾讯混元合作发布 [CL-bench](/publication/cl-bench)：由领域专家构建的 500 个上下文、1,899 个任务，评测语言模型能否从上下文中学习新知识。10 个前沿模型平均只能完成 17.2% 的任务，表现最好的 GPT-5.1 也只有 23.7%。
 
 联系方式：上海市杨浦区淞沪路2005号复旦大学江湾校区交叉二号科学楼

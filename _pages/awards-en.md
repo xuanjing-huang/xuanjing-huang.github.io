@@ -33,10 +33,10 @@ redirect_from:
 
 ## International Rankings & Recognition
 
-* **Aminer "_Women in AI_"**, **2020–2024**
-* **Aminer "_Most Influential Scholar Award Honorable Mention_"**, **2020–2024**
+* **Aminer “_Women in AI_”**, **2020–2024**
+* **Aminer “_Most Influential Scholar Award Honorable Mention_”**, **2020–2024**
 * **World's Top 2% Scientists**, _Elsevier_, **2023, 2024**
-* **Forbes China "_Women in Tech_"**, **2020**
+* **Forbes China “_Women in Tech_”**, **2020**
 
 ## Teaching & University Honors
 

@@ -26,3 +26,21 @@ In addition to my research, I actively contribute to the research community. I c
 * **[2026.09]** The Fudan AI course teaching team I lead received Fudan University's 2026 "Zhong Yang-style" Excellent Team award. The team has built 32 courses in the university's AI-BEST curriculum, one third of all courses approved.
 * **[2026.04]** With Shanghai Qiji Zhifeng, we released [Agentic Harness Engineering (AHE)](/publication/agentic-harness-engineering), which lets a coding agent evolve its own harness automatically. Ten iterations lift Terminal-Bench 2 pass@1 from 69.7% to 77.0%, surpassing the human-designed Codex-CLI harness, and the evolved harness transfers to SWE-bench Verified and other model families.
 * **[2026.02]** With Tencent Hunyuan, we released [CL-bench](/publication/cl-bench), a benchmark of 500 expert-crafted contexts and 1,899 tasks that tests whether language models can learn new knowledge from context. Ten frontier models solve only 17.2% of tasks on average, and the best, GPT-5.1, solves 23.7%.
+
+## Alumni
+
+All of the following students received their PhD degrees under my supervision.
+
+* [Zhangyue Yin](https://yinzhangyue.github.io/) (2026) — Tencent Hunyuan
+* Yuxin Wang (2026) — Advisor, Shanghai Innovation Institute
+* Tianxiang Sun (2024) — Head of Foundation Model R&D, Baidu
+* Yicheng Zou (2023) — Young Researcher, Shanghai Artificial Intelligence Laboratory
+* [Tao Gui](https://imoll.fudan.edu.cn/info/1018/1342.htm) (2021) — Associate Professor, Institute of Modern Linguistics, Fudan University
+* [Jinlan Fu](https://jinlanfu.github.io/) (2021) — Assistant Professor, School of Computing and Intelligent Innovation, Fudan University
+* [Jingjing Gong](https://jjgong.com/) (2020) — Assistant Professor, Shanghai Innovation Institute
+* Pengfei Liu (2019) — Associate Professor (tenure-track), Shanghai Jiao Tong University
+* Xinci Chen (2018) — Young Researcher, Institute of Trustworthy Embodied Intelligence, Fudan University
+* Yeyun Gong (2017) — Principal Research Manager, Microsoft Research Asia
+* Yatian Shen (2017) — Associate Professor, Henan University
+* Yuanbin Wu (2014) — Associate Professor, East China Normal University
+

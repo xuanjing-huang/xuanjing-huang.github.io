@@ -42,4 +42,8 @@
   })();
 </script>
 
+{% if current_lang == 'zh' %}
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} 黄萱菁. 本站基于 <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> 与 <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a> 构建。</div>
+{% else %}
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> & <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+{% endif %}

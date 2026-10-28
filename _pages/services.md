@@ -9,11 +9,8 @@ redirect_from:
 ### Committee Membership
 * [Technical Committee on Natural Language Processing of CCF](http://tcci.ccf.org.cn/)
 * [Technical Committee on Computational Linguistic of CIPSC](http://cips-cl.org/)
-* [Technical Committee on Social Media Processing of CIPSC](http://www.cips-smp.org/)
-* Technical Committee on Information Retrieval of CIPSC
 * [Association for Computational Linguistics](http://www.aclweb.org/)
 * [ Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)](https://aaclnet.org/about/index.html)
-* [Association for Computing Machinery](https://www.acm.org/)
 
 ### Conference Organizing Committee
 * [SIGIR-AP 2023](http://www.sigir-ap.org/sigir-ap-2023/), Program Co-chair
@@ -32,20 +29,20 @@ redirect_from:
 * SMP 2014, Program Co-Chair
 
 ### Conference SAC, AC, SPC or PC
-* ACL Rolling Review (2022-2024)
-* ACL (2013-2024)
-* EMNLP (2010-2024)
-* NAACL (2016-2024)
-* COLING (2010-2025)
-* AAAI (2019-2022)
-* IJCAI (2013-2025)
-* SIGIR (2011-2024)
-* TheWebConf (2012-2024)
-* CIKM (2011-2020)
-* WSDM (2012-2023)
-* NeurIPS (2020-2024)
-* ICML (2021-2024)
-* ICLR (2021-2025)
+* ACL Rolling Review (2022-present)
+* ACL (2013-present)
+* EMNLP (2010-present)
+* NAACL (2016-present)
+* COLING (2010-present)
+* AAAI (2019-present)
+* IJCAI (2013-present)
+* SIGIR (2011-present)
+* TheWebConf (2012-present)
+* CIKM (2011-present)
+* WSDM (2012-present)
+* NeurIPS (2020-present)
+* ICML (2021-present)
+* ICLR (2021-present)
 
 ### Journal AE
 * [SCIENCE CHINA Information Sciences](http://scis.scichina.com/download/ssi-editorialboard.pdf)
@@ -55,12 +52,3 @@ redirect_from:
 * [Journal of Software](http://www.jos.org.cn/jos/site/menu/20071206155306001?id=20071206155306001&name=%E7%BC%96%E5%A7%94%E4%BC%9A)
 * [Journal of Computer Research and Development](https://crad.ict.ac.cn/xianrenbianweihui)
 * [Journal of Chinese Information Processing](http://jcip.cipsc.org.cn/CN/column/column2.shtml)
-
-### Journal Referee
-* Transactions of the Association for Computational Linguistics
-* IEEE/ACM Transactions on Audio, Speech and Language Processing
-* ACM Transactions on Asian and Low-Resource Language Information Processing
-* IEEE Transactions on Knowledge and Data Engineering
-* Information Processing and Management
-* ACM Transactions on Intelligent Systems and Technology
-

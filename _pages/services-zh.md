@@ -9,11 +9,8 @@ redirect_from:
 ### 学术委员会任职
 * [中国计算机学会自然语言处理专业委员会](http://tcci.ccf.org.cn/)
 * [中国中文信息学会计算语言学专业委员会](http://cips-cl.org/)
-* [中国中文信息学会社会媒体处理专业委员会](http://www.cips-smp.org/)
-* 中国中文信息学会信息检索专业委员会
 * [国际计算语言学协会](http://www.aclweb.org/)
 * [亚太计算语言学协会](https://aaclnet.org/about/index.html)
-* [美国计算机协会](https://www.acm.org/)
 
 ### 会议组织委员会
 * [SIGIR-AP 2023](http://www.sigir-ap.org/sigir-ap-2023/)，程序委员会共同主席
@@ -32,20 +29,20 @@ redirect_from:
 * SMP 2014，程序委员会共同主席
 
 ### 会议程序委员会（SAC、AC、SPC 或 PC）
-* ACL Rolling Review (2022-2024)
-* ACL (2013-2024)
-* EMNLP (2010-2024)
-* NAACL (2016-2024)
-* COLING (2010-2025)
-* AAAI (2019-2022)
-* IJCAI (2013-2025)
-* SIGIR (2011-2024)
-* TheWebConf (2012-2024)
-* CIKM (2011-2020)
-* WSDM (2012-2023)
-* NeurIPS (2020-2024)
-* ICML (2021-2024)
-* ICLR (2021-2025)
+* ACL Rolling Review (2022-至今)
+* ACL (2013-至今)
+* EMNLP (2010-至今)
+* NAACL (2016-至今)
+* COLING (2010-至今)
+* AAAI (2019-至今)
+* IJCAI (2013-至今)
+* SIGIR (2011-至今)
+* TheWebConf (2012-至今)
+* CIKM (2011-至今)
+* WSDM (2012-至今)
+* NeurIPS (2020-至今)
+* ICML (2021-至今)
+* ICLR (2021-至今)
 
 ### 期刊编委
 * [中国科学: 信息科学](http://scis.scichina.com/download/ssi-editorialboard.pdf)
@@ -55,11 +52,3 @@ redirect_from:
 * [软件学报](http://www.jos.org.cn/jos/site/menu/20071206155306001?id=20071206155306001&name=%E7%BC%96%E5%A7%94%E4%BC%9A)
 * [计算机研究与发展](https://crad.ict.ac.cn/xianrenbianweihui)
 * [中文信息学报](http://jcip.cipsc.org.cn/CN/column/column2.shtml)
-
-### 期刊审稿人
-* Transactions of the Association for Computational Linguistics
-* IEEE/ACM Transactions on Audio, Speech and Language Processing
-* ACM Transactions on Asian and Low-Resource Language Information Processing
-* IEEE Transactions on Knowledge and Data Engineering
-* Information Processing and Management
-* ACM Transactions on Intelligent Systems and Technology

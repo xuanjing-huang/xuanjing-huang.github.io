@@ -4,6 +4,7 @@ collection: publications
 pub_category: agents
 permalink: /publication/social-simulation-survey
 excerpt: 'We survey social simulation driven by LLM-based agents across three levels, from individual simulation to scenario simulation and society simulation, covering methods, evaluation, and applications.'
+excerpt_zh: '这篇综述系统梳理了大语言模型驱动的社会模拟研究，按照个体模拟、场景模拟和社会模拟三个层次总结方法、任务与评估。它讨论了生成式智能体如何作为“硅基样本”支持社会科学实验，也指出了可信性、可控性和伦理等开放问题。'
 date: 2026-04-17
 venue: 'ACM Computing Surveys'
 paperurl: 'https://doi.org/10.1145/3800683'

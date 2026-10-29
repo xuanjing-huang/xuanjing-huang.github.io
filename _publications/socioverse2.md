@@ -4,6 +4,7 @@ collection: publications
 pub_category: agents
 permalink: /publication/socioverse2
 excerpt: 'SocioVerse2 is an open-source social simulation framework built from a longitudinal simulation loop with counterfactual branches, a controllable research loop over editable study states, and a social science agentic infrastructure.'
+excerpt_zh: 'SocioVerse2 是面向社会科学研究的开源社会模拟框架，支持在长程模拟中插入干预、分叉出反事实分支，并让研究者控制研究过程本身。论文通过七个案例展示其在经典智能体建模复现、政策过程建模和宏观指数预测等任务中的应用。'
 date: 2026-09-21
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2609.24911'

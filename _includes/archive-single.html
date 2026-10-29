@@ -78,7 +78,9 @@
         {% endif %}
 
     {% comment %} Determine display excerpt based on page language {% endcomment %}
-    {% if page_lang == 'en' and post.excerpt_en %}
+    {% if page_lang == 'zh' and post.excerpt_zh %}
+      {% assign display_excerpt = post.excerpt_zh %}
+    {% elsif page_lang == 'en' and post.excerpt_en %}
       {% assign display_excerpt = post.excerpt_en %}
     {% else %}
       {% assign display_excerpt = post.excerpt %}

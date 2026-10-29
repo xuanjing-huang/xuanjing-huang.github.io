@@ -4,6 +4,7 @@ collection: publications
 pub_category: agents
 permalink: /publication/agentic-harness-engineering
 excerpt: 'We introduce Agentic Harness Engineering (AHE), an observability-driven closed loop that automatically evolves coding-agent harnesses, lifting Terminal-Bench 2 pass@1 from 69.7% to 77.0% and surpassing the human-designed Codex-CLI harness.'
+excerpt_zh: 'Agentic Harness Engineering（AHE）让编程智能体自动演化自身 harness：它把可编辑组件、海量轨迹证据和每次修改的预期效果都显式化，使 harness 迭代可以被观察和验证。经过 10 轮自动演化，Terminal-Bench 2 通过率从 69.7% 提升到 77.0%，并可迁移到 SWE-bench Verified 和其他模型系列。'
 date: 2026-04-28
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2604.25850'

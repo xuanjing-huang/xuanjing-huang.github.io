@@ -4,6 +4,7 @@ collection: publications
 pub_category: interpretability
 permalink: /publication/actionable-mi-survey
 excerpt: 'A practical survey that organizes mechanistic interpretability around a "Locate, Steer, and Improve" pipeline, turning interpretability into an actionable methodology for improving alignment, capability, and efficiency of LLMs.'
+excerpt_zh: '这篇综述关注可操作的机械可解释性，系统梳理如何从解释模型内部机制走向可干预、可验证和可改进模型行为的解释方法。文章总结了概念发现、回路分析、因果干预和可解释性驱动模型控制等方向，为大模型可解释性研究提供了结构化视角。'
 date: 2026-07-01
 venue: 'Findings of the Association for Computational Linguistics: ACL 2026; extended version in Computer Science Review'
 paperurl: 'https://doi.org/10.18653/v1/2026.findings-acl.502'

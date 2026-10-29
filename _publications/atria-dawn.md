@@ -4,6 +4,7 @@ collection: publications
 pub_category: ai-scientist
 permalink: /publication/atria-dawn
 excerpt: 'Atria Dawn Preview is a foundation agentic language model for scientific research and engineering workflows, trained via a Verifiable Experience Pipeline, together with a case study of human-AI collaboration in its own development.'
+excerpt_zh: 'Atria Dawn 是面向科研与工程任务的基础智能体语言模型，通过可验证经验管线训练，并以模型自身研发过程为案例分析人机协作形态。模型基于 7440 亿参数 MoE 基座，支持 256K 上下文，在 16 项真实科研、工程与数字工作基准上与前沿智能体相当，其中 5 项取得当前最高成绩。'
 date: 2026-09-14
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2609.15818'

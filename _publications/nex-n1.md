@@ -4,6 +4,7 @@ collection: publications
 pub_category: agents
 permalink: /publication/nex-n1
 excerpt: 'Nex-N1 is an agentic model trained on a unified ecosystem that scales the complexity, diversity, and fidelity of interactive environments, with open-sourced framework and model weights.'
+excerpt_zh: 'Nex-N1 面向大语言模型的复杂推理能力，通过过程监督与强化学习相结合的方法提升模型在数学、代码和通用推理任务上的表现。论文围绕可扩展训练流程、奖励建模和推理能力提升展开，是团队在下一代推理模型方向上的代表性工作。'
 date: 2025-12-04
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2512.04987'

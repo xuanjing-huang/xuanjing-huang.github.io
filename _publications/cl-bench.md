@@ -4,6 +4,7 @@ collection: publications
 pub_category: foundation
 permalink: /publication/cl-bench
 excerpt: 'Current language models (LMs) excel at reasoning over prompts using pre-trained knowledge. However, real-world tasks are far more complex and context-dependent: models must learn from task-specific context and leverage new knowledge beyond what is learned during pre-training to reason and resolve tasks. We term this capability context learning, a crucial ability that humans naturally possess but has been largely overlooked.'
+excerpt_zh: 'CL-bench 是面向“上下文学习”能力的真实任务基准，考察模型能否从任务给定的复杂上下文中学习新知识并解决问题。基准包含 500 个专家构建的上下文、1,899 个任务和 31,607 条验证规则，显示当前前沿模型在这种能力上仍有明显不足。'
 date: 2026-02-03
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2602.03587'

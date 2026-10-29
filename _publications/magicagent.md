@@ -4,6 +4,7 @@ collection: publications
 pub_category: agents
 permalink: /publication/magicagent
 excerpt: 'MagicAgent is a series of foundation models for generalized agent planning, trained with scalable synthetic planning trajectories and a two-stage SFT plus multi-objective RL paradigm.'
+excerpt_zh: 'MagicAgent 研究面向真实数字环境的通用智能体能力，强调在多步骤任务中理解环境、调用工具并根据反馈持续调整行动。论文围绕智能体任务构建、评测和能力提升展开，服务于更稳定的 GUI 与工具使用智能体。'
 date: 2026-02-22
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2602.19000'

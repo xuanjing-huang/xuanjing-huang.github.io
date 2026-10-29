@@ -4,6 +4,7 @@ collection: publications
 pub_category: agents
 permalink: /publication/workforge
 excerpt: 'WorkForge is a scalable framework that builds verifiable work-agent environments from real-world resources, deriving tasks and programmatic and semantic verifiers from factual anchors in each workspace.'
+excerpt_zh: 'WorkForge 从真实世界资源出发，自动构建可验证的长程工作智能体训练环境，并把任务、解法和验证器都锚定到工作空间中的可检查事实。该框架构建了覆盖 40 个专业领域的 1.67 万个环境，用于后训练后显著提升工作智能体在 GDPVal 等评测上的表现。'
 date: 2026-10-04
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2610.04906'

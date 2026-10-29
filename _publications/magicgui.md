@@ -4,6 +4,7 @@ collection: publications
 pub_category: agents
 permalink: /publication/magicgui
 excerpt: 'MagicGUI is a foundational mobile GUI agent built on a scalable GUI data pipeline, a unified action space, planning-oriented reasoning, and two-stage training combining continued pre-training with reinforcement fine-tuning.'
+excerpt_zh: 'MagicGUI 面向图形用户界面智能体，研究如何让模型理解屏幕内容、执行操作并完成真实软件环境中的任务。论文关注 GUI 任务中的感知、规划与交互，为构建更可靠的桌面和移动端智能体提供基准与方法。'
 date: 2025-07-19
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2508.03700'

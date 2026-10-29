@@ -6,9 +6,14 @@ lang: en
 redirect_from:
   - /grants.html
 ---
-* Principal Investigator:	_Studying Key Methods for Open Information Extraction Based on Pretrained Language Models_, Sponsored by National Natural Science Foundation of China, 2024-2027
-* Principal Investigator:	_Research on Value and Safety Alignment for Large Language Models_, Sponsored by National Natural Science Foundation of China, 2024-2025
-* Principal Investigator: _Research on the New Paradigm of Pluggable and Robust Pre-training Model for Smart Healthcare_, Sponsored by Program of Shanghai Academic Research Leader, 2022-2025
-* Principal Investigator:	_Structural and Semantics Analysis for Internet Language Based on Deep Neural Networks_, Sponsored by National Natural Science Foundation of China, 2020-2023
-* Principal Investigator:	_Research of intelligent decision making technology of big data assistance program for released prisoners based on resettlement, assistance and education status_, Sponsored by National Key Research and Development Program of China, 2018-2021
-* Principal Investigator:	_Integrating Text Content and Structure in Topic Analysis_, Sponsored by National Natural Science Foundation of China, 2015-2018
+## Recent Projects
+
+* **Key methods for open information extraction based on pretrained language models**. Principal Investigator, National Natural Science Foundation of China, 2024–2027.
+* **Value and safety alignment for large language models**. Principal Investigator, National Natural Science Foundation of China, 2024–2025.
+* **A pluggable and robust pre-training paradigm for smart healthcare**. Principal Investigator, Program of Shanghai Academic Research Leader, 2022–2025.
+
+## Selected Previous Projects
+
+* **Structural and semantic analysis for internet language based on deep neural networks**. Principal Investigator, National Natural Science Foundation of China, 2020–2023.
+* **Intelligent decision-making technology for big-data-assisted released-prisoner resettlement and support**. Principal Investigator, National Key Research and Development Program of China, 2018–2021.
+* **Integrating text content and structure in topic analysis**. Principal Investigator, National Natural Science Foundation of China, 2015–2018.

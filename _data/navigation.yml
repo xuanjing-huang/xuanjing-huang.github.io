@@ -6,6 +6,9 @@ main_en:
   - title: "Publications"
     url: /publications/
 
+  - title: "Resources"
+    url: /resources/
+
   - title: "Talks"
     url: /talks/
 
@@ -31,6 +34,9 @@ main_zh:
     
   - title: "学术论文"
     url: /publications/zh/
+
+  - title: "开源成果"
+    url: /resources/zh/
 
   - title: "学术报告"
     url: /talks/zh/

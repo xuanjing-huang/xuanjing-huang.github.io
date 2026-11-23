@@ -10,7 +10,7 @@ redirect_from:
 
 复旦大学特聘教授，[上海创智学院](https://www.sii.edu.cn/)分时导师，[上海人工智能实验室](https://www.shlab.org.cn/)兼职导师，国家级领军人才，上海市优秀学术带头人。主要从事人工智能、自然语言处理与大语言模型研究，当前聚焦[大语言模型与推理](/publications/zh/#foundation)、[智能体与 harness 工程](/publication/agentic-harness-engineering)、[对齐与安全](/publications/zh/#alignment)、[可解释性](/publications/zh/#interpretability)，以及[科研自动化](/publications/zh/#ai-scientist)与[社会模拟](/publication/socioverse2)。
 
-兼任中国计算机学会理事、[自然语言处理专委会](http://tcci.ccf.org.cn/)主任，[中国中文信息学会](http://www.cipsc.org.cn/)理事，[国际计算语言学学会（ACL）](https://www.aclweb.org/portal/about)执委、[国际计算语言学学会亚太分会（AACL）](https://aaclnet.org/about.html)主席，[亚太信息检索学会（SIGIR-AP）](http://www.sigir-ap.org/)指导委员会委员；曾任 [SIGIR-AP 2023](http://www.sigir-ap.org/sigir-ap-2023/) 与 [EMNLP 2021](http://2021.emnlp.org) 程序委员会联合主席。
+兼任[中国中文信息学会](http://www.cipsc.org.cn/)副理事长、中国计算机学会理事、[自然语言处理专委会](http://tcci.ccf.org.cn/)主任，[国际计算语言学学会（ACL）](https://www.aclweb.org/portal/about)执委、[国际计算语言学学会亚太分会（AACL）](https://aaclnet.org/about.html)主席，[亚太信息检索学会（SIGIR-AP）](http://www.sigir-ap.org/)指导委员会委员；曾任 [SIGIR-AP 2023](http://www.sigir-ap.org/sigir-ap-2023/) 与 [EMNLP 2021](http://2021.emnlp.org) 程序委员会联合主席。
 
 在国际顶级期刊与会议发表论文 300 余篇，被引 4.5 万余次。其中，10 篇论文获优秀论文奖，包括：ACL 2017、COLING 2018、COLING 2022、NLPCC 2019、CCL 2019、CCL 2023，以及 NeurIPS 2023 Instruction Workshop 等国内外学术会议；另有 2 篇论文获《中国科学》系列期刊年度优秀论文奖。
 
